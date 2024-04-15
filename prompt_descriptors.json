@@ -1,0 +1,788 @@
+{
+"a ninja fighting a zombie":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "action-packed"},
+    "Background": {"setting": "dark alley", "time": "night"},
+    "Objects": {},
+    "Character": {
+      "ninja": ["black outfit", "mask covering face", "poised to attack"],
+      "zombie": ["tattered clothes", "green skin", "approaching ninja"]
+    },
+    "Text": {}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "dynamic"},
+    "Background": {"setting": "dark alley", "time": "night"},
+    "Objects": {},
+    "Character": {
+      "ninja": ["black outfit", "in mid-air", "kicking"],
+      "zombie": ["tattered clothes", "stumbling backward"]
+    },
+    "Text": {}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "climactic"},
+    "Background": {"setting": "dark alley", "time": "night"},
+    "Objects": {},
+    "Character": {
+      "ninja": ["black outfit", "landing gracefully"],
+      "zombie": ["on the ground", "defeated"]
+    },
+    "Text": {}
+  }
+},
+
+"a square walking through a circle of triangles":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "surreal"},
+    "Background": {"setting": "abstract", "colors": ["pastel blue", "light yellow"]},
+    "Objects": {
+      "circle": ["large", "center of frame", "composed of small triangles"],
+      "triangles": ["multiple", "forming a circle"]
+    },
+    "Character": {
+      "square": ["small", "entering from left", "happy expression"]
+    },
+    "Text": {}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "surreal"},
+    "Background": {"setting": "abstract", "colors": ["pastel blue", "light yellow"]},
+    "Objects": {
+      "circle": ["large", "center of frame", "composed of small triangles"],
+      "triangles": ["multiple", "adjusting positions"]
+    },
+    "Character": {
+      "square": ["center of the circle", "surrounded by triangles", "confused expression"]
+    },
+    "Text": {}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "surreal"},
+    "Background": {"setting": "abstract", "colors": ["pastel blue", "light yellow"]},
+    "Objects": {
+      "circle": ["large", "center of frame", "composed of small triangles"],
+      "triangles": ["multiple", "forming a complete circle again"]
+    },
+    "Character": {
+      "square": ["exiting to the right", "happy expression"]
+    },
+    "Text": {}
+  }
+},
+
+"a tutorial for drawing a stickman": {
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "educational"},
+    "Background": {"setting": "plain", "color": "light grey"},
+    "Objects": {
+      "pencil": ["simple", "drawing a circle"]
+    },
+    "Character": {},
+    "Text": {"bottom": ["Step 1: Draw the head as a simple circle."]}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "educational"},
+    "Background": {"setting": "plain", "color": "light grey"},
+    "Objects": {
+      "pencil": ["adding a straight line for the body", "two lines for arms", "two lines for legs"]
+    },
+    "Character": {},
+    "Text": {"bottom": ["Step 2: Add a straight line for the body, two lines for arms, and two lines for legs."]}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "educational"},
+    "Background": {"setting": "plain", "color": "light grey"},
+    "Objects": {
+      "pencil": ["drawing two dots for eyes", "one curved line for a smile"]
+    },
+    "Character": {
+      "stickman": ["circle head", "line body", "line arms", "line legs"]
+    },
+    "Text": {"bottom": ["Step 3: Draw two dots for eyes and a curved line for a smile."]}
+  }
+},
+
+"potatoes being dug up from the farm": {
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "rustic"},
+    "Background": {"setting": "farm field", "time": "morning", "colors": ["light green", "brown"]},
+    "Objects": {
+      "shovel": ["stuck in the ground"],
+      "potato plants": ["several", "above ground"]
+    },
+    "Character": {
+      "farmer": ["wearing a straw hat", "bending over", "grasping shovel handle"]
+    },
+    "Text": {}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "action"},
+    "Background": {"setting": "farm field", "time": "morning", "colors": ["light green", "brown"]},
+    "Objects": {
+      "dirt": ["being lifted", "shovel"],
+      "potatoes": ["uncovered", "several"]
+    },
+    "Character": {
+      "farmer": ["wearing a straw hat", "lifting shovel with dirt and potatoes"]
+    },
+    "Text": {}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "satisfaction"},
+    "Background": {"setting": "farm field", "time": "morning", "colors": ["light green", "brown"]},
+    "Objects": {
+      "basket": ["filled with potatoes", "on the ground"]
+    },
+    "Character": {
+      "farmer": ["wearing a straw hat", "smiling", "standing beside basket"]
+    },
+    "Text": {}
+  }
+},
+
+"openai employee rushing to stop gpt-5 release": {
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "urgent"},
+    "Background": {"setting": "office hallway", "colors": ["light grey", "white"]},
+    "Objects": {
+      "clock": ["wall-mounted", "showing time close to a deadline"]
+    },
+    "Character": {
+      "employee": ["wearing a badge", "running", "papers flying behind"]
+    },
+    "Text": {"speech bubble": ["We need to delay the release!"]}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "action"},
+    "Background": {"setting": "office", "colors": ["light grey", "white"]},
+    "Objects": {
+      "computers": ["several", "on desks"],
+      "coffee cups": ["scattered around"]
+    },
+    "Character": {
+      "employee": ["at a computer", "typing furiously"]
+    },
+    "Text": {"speech bubble": ["Canceling the launch sequence!"]}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "relief"},
+    "Background": {"setting": "office", "colors": ["light grey", "white"]},
+    "Objects": {
+      "employees": ["gathered around", "looking relieved"]
+    },
+    "Character": {
+      "employee": ["smiling", "thumbs up"]
+    },
+    "Text": {"speech bubble": ["Crisis averted!"]}
+  }
+},
+
+"robots fighting humans in an AI apocalypse": {
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "dystopian"},
+    "Background": {"setting": "ravaged cityscape", "time": "dusk", "colors": ["dark red", "grey"]},
+    "Objects": {
+      "ruins": ["buildings", "smoke rising"]
+    },
+    "Character": {
+      "robots": ["several", "metallic", "armed with lasers"],
+      "humans": ["few", "armed with makeshift weapons", "defensive stance"]
+    },
+    "Text": {}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "action"},
+    "Background": {"setting": "ravaged cityscape", "time": "dusk", "colors": ["dark red", "grey"]},
+    "Objects": {
+      "explosions": ["nearby"]
+    },
+    "Character": {
+      "robot": ["metallic", "shooting laser"],
+      "human": ["dodging", "counterattacking"]
+    },
+    "Text": {}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "climax"},
+    "Background": {"setting": "ravaged cityscape", "time": "dusk", "colors": ["dark red", "grey"]},
+    "Objects": {
+      "debris": ["scattered"]
+    },
+    "Character": {
+      "human": ["wounded", "kneeling"],
+      "robot": ["damaged", "standing over human"]
+    },
+    "Text": {}
+  }
+},
+
+"latvian singers making forests shine with their song":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "magical"},
+    "Background": {"setting": "dense forest", "time": "twilight", "colors": ["dark green", "deep blue"]},
+    "Objects": {
+      "trees": ["tall", "surrounding"]
+    },
+    "Character": {
+      "singers": ["two", "wearing traditional Latvian garments", "beginning to sing"]
+    },
+    "Text": {}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "enchantment"},
+    "Background": {"setting": "dense forest", "time": "twilight", "colors": ["dark green", "deep blue", "shimmering lights"]},
+    "Objects": {
+      "trees": ["glowing softly", "surrounding"],
+      "sparkles": ["floating around singers"]
+    },
+    "Character": {
+      "singers": ["singing passionately", "eyes closed"]
+    },
+    "Text": {}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "radiant"},
+    "Background": {"setting": "dense forest", "time": "twilight", "colors": ["dark green", "deep blue", "radiant glow"]},
+    "Objects": {
+      "trees": ["radiating light", "surrounding"],
+      "animals": ["gathered", "watching in awe"]
+    },
+    "Character": {
+      "singers": ["holding final note", "surrounded by light"]
+    },
+    "Text": {}
+  }
+},
+
+"comic on how earth was born":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "cosmic"},
+    "Background": {"setting": "space", "colors": ["black", "stars scattered"]},
+    "Objects": {
+      "nebula": ["colorful", "in the center"]
+    },
+    "Character": {},
+    "Text": {"bottom": ["In the beginning, there was only a vast nebula..."]}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "formation"},
+    "Background": {"setting": "space", "colors": ["black", "stars scattered"]},
+    "Objects": {
+      "dust and gas": ["spiraling", "forming a disc"]
+    },
+    "Character": {},
+    "Text": {"bottom": ["...from which dust and gas began to condense..."]}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "birth"},
+    "Background": {"setting": "space", "colors": ["black", "bright light in the center"]},
+    "Objects": {
+      "earth": ["newly formed", "in the center"]
+    },
+    "Character": {},
+    "Text": {"bottom": ["...and thus, the Earth was born."]}
+  }
+},
+
+"cube people in a cube world making little villages":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "whimsical"},
+    "Background": {"setting": "cube landscape", "colors": ["light green", "sky blue"]},
+    "Objects": {
+      "cube trees": ["several", "scattered around"],
+      "cube houses": ["starting to be built", "small"]
+    },
+    "Character": {
+      "cube people": ["several", "carrying building materials", "working together"]
+    },
+    "Text": {"bottom": ["Building our little cube village..."]}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "collaboration"},
+    "Background": {"setting": "cube landscape", "colors": ["light green", "sky blue"]},
+    "Objects": {
+      "cube houses": ["half-built", "more added"],
+      "cube trees": ["several", "scattered around"]
+    },
+    "Character": {
+      "cube people": ["working", "interacting happily"]
+    },
+    "Text": {"bottom": ["Together, we create more!"]}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "accomplishment"},
+    "Background": {"setting": "cube landscape", "colors": ["light green", "sky blue"]},
+    "Objects": {
+      "cube houses": ["completed", "forming a village"],
+      "cube trees": ["several", "scattered around"]
+    },
+    "Character": {
+      "cube people": ["celebrating", "admiring their work"]
+    },
+    "Text": {"bottom": ["Our cube village stands tall!"]}
+  }
+},
+
+"mercedes benz, audi and bmw arguing about which is better":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "automotive"},
+    "Background": {"setting": "car showroom", "colors": ["light grey", "white"]},
+    "Objects": {
+      "Mercedes Benz": ["parked", "shiny", "silver"],
+      "Audi": ["parked", "shiny", "black"],
+      "BMW": ["parked", "shiny", "blue"]
+    },
+    "Character": {},
+    "Text": {"speech bubbles": ["Mercedes Benz: 'We offer unparalleled luxury.'", "Audi: 'But our technology leads the way.'", "BMW: 'No one beats our driving dynamics.'"]}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "debate"},
+    "Background": {"setting": "car showroom", "colors": ["light grey", "white"]},
+    "Objects": {
+      "Mercedes Benz": ["shiny", "silver"],
+      "Audi": ["shiny", "black"],
+      "BMW": ["shiny", "blue"]
+    },
+    "Character": {},
+    "Text": {"speech bubbles": ["Mercedes Benz: 'Our interiors define comfort.'", "Audi: 'Our infotainment is unmatched.'", "BMW: 'But the thrill of the drive is what matters most.'"]}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "resolution"},
+    "Background": {"setting": "car showroom", "colors": ["light grey", "white"]},
+    "Objects": {
+      "customers": ["looking at cars", "thoughtful"]
+    },
+    "Character": {},
+    "Text": {"bottom": ["In the end, the best is in the eye of the beholder."]}
+  }
+},
+
+"an advert for a comic book car from cyberpunk":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "futuristic"},
+    "Background": {"setting": "cyberpunk cityscape", "time": "night", "colors": ["neon lights", "dark skies"]},
+    "Objects": {
+      "billboard": ["large", "displaying comic book car ad"]
+    },
+    "Character": {},
+    "Text": {"top": ["The Future of Travel"], "bottom": ["Introducing the CyberCar!"]}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "dynamic"},
+    "Background": {"setting": "cyberpunk city streets", "colors": ["neon lights", "motion blur"]},
+    "Objects": {
+      "comic book car": ["sleek", "neon trim", "speeding through the streets"]
+    },
+    "Character": {},
+    "Text": {"bottom": ["Sleek Design. Unmatched Speed."]}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "innovative"},
+    "Background": {"setting": "virtual showroom", "colors": ["futuristic interface", "transparent displays"]},
+    "Objects": {
+      "comic book car": ["displayed", "interactive features highlighted"]
+    },
+    "Character": {},
+    "Text": {"bottom": ["Experience the Drive of Tomorrow, Today"]}
+  }
+},
+
+"a joke about how many analysts you need to change a lightbulb":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "office humor"},
+    "Background": {"setting": "office", "colors": ["light grey", "white"]},
+    "Objects": {
+      "lightbulb": ["hanging", "burnt out"]
+    },
+    "Character": {
+      "analysts": ["one", "looking puzzled", "holding a report"]
+    },
+    "Text": {"speech bubble": ["'How many analysts does it take to change this lightbulb?'"]}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "deliberation"},
+    "Background": {"setting": "office", "colors": ["light grey", "white"]},
+    "Objects": {
+      "charts": ["on whiteboard", "complex equations"]
+    },
+    "Character": {
+      "analysts": ["three", "debating", "pointing at charts"]
+    },
+    "Text": {"speech bubble": ["'Let's analyze the cost-benefit ratio first...'"]}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "conclusion"},
+    "Background": {"setting": "office", "colors": ["light grey", "white"]},
+    "Objects": {
+      "lightbulb": ["still hanging", "still burnt out"]
+    },
+    "Character": {
+      "analyst": ["one", "presenting", "with a pointer"]
+    },
+    "Text": {"bottom": ["Conclusion: It takes four analysts... one to propose the change, three to analyze it, and none to actually change the lightbulb!"]}
+  }
+},
+
+"a red Italian plumber and his green brother jumping on mushrooms":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "adventurous"},
+    "Background": {"setting": "mushroom kingdom", "colors": ["bright green", "sky blue"]},
+    "Objects": {
+      "mushrooms": ["large", "one", "on the ground"]
+    },
+    "Character": {
+      "plumber in red": ["jumping", "above mushroom"],
+      "plumber in green": ["running", "towards mushroom"]
+    },
+    "Text": {}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "action"},
+    "Background": {"setting": "mushroom kingdom", "colors": ["bright green", "sky blue"]},
+    "Objects": {
+      "mushrooms": ["several", "various sizes", "scattered"]
+    },
+    "Character": {
+      "plumber in red": ["landing", "on a mushroom"],
+      "plumber in green": ["jumping", "reaching for another mushroom"]
+    },
+    "Text": {}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "triumphant"},
+    "Background": {"setting": "mushroom kingdom", "colors": ["bright green", "sky blue"]},
+    "Objects": {},
+    "Character": {
+      "plumber in red": ["standing", "on mushroom", "victorious"],
+      "plumber in green": ["joining", "next to him", "also victorious"]
+    },
+    "Text": {}
+  }
+},
+
+"a rat that sits in a french cooks hair helps him make spaghetti":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "charming"},
+    "Background": {"setting": "kitchen", "colors": ["warm", "inviting"]},
+    "Objects": {
+      "kitchen utensils": ["hanging", "organized"],
+      "pot": ["on stove", "steaming"]
+    },
+    "Character": {
+      "French cook": ["wearing chef hat", "focused", "preparing ingredients"],
+      "rat": ["small", "sitting in chef hat", "peeking out"]
+    },
+    "Text": {}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "collaborative"},
+    "Background": {"setting": "kitchen", "colors": ["warm", "inviting"]},
+    "Objects": {
+      "spaghetti": ["on counter", "uncooked"],
+      "tomatoes": ["next to spaghetti", "fresh"]
+    },
+    "Character": {
+      "French cook": ["mixing ingredients", "with guidance from rat"],
+      "rat": ["giving directions", "enthusiastic"]
+    },
+    "Text": {}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "success"},
+    "Background": {"setting": "kitchen", "colors": ["warm", "inviting"]},
+    "Objects": {
+      "plate of spaghetti": ["on table", "garnished"]
+    },
+    "Character": {
+      "French cook": ["smiling", "serving the dish"],
+      "rat": ["proud", "sitting on cook's shoulder"]
+    },
+    "Text": {}
+  }
+},
+
+"a hat sale in a bustling Italian village":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "lively"},
+    "Background": {"setting": "Italian village square", "time": "morning", "colors": ["warm tones", "cobblestone streets"]},
+    "Objects": {
+      "market stalls": ["colorful", "several", "displaying hats"]
+    },
+    "Character": {
+      "vendors": ["welcoming", "gesturing towards hats"],
+      "visitors": ["curious", "browsing"]
+    },
+    "Text": {"bottom": ["Hat Sale Today!"]}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "interaction"},
+    "Background": {"setting": "Italian village square", "colors": ["warm tones", "cobblestone streets"]},
+    "Objects": {
+      "hats": ["various styles", "on display"]
+    },
+    "Character": {
+      "vendor": ["showing hat to customer"],
+      "customer": ["trying on hat", "delighted"]
+    },
+    "Text": {}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "joyful"},
+    "Background": {"setting": "Italian village square", "colors": ["warm tones", "cobblestone streets"]},
+    "Objects": {
+      "people": ["wearing new hats", "smiling", "socializing"]
+    },
+    "Character": {},
+    "Text": {"bottom": ["A perfect fit for everyone!"]}
+  }
+},
+
+"protests in the streets of Paris":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "tension"},
+    "Background": {"setting": "Paris streets", "time": "day", "colors": ["gray", "urban"]},
+    "Objects": {
+      "barricades": ["scattered", "makeshift"],
+      "signs": ["held by protesters", "various messages"]
+    },
+    "Character": {
+      "protesters": ["crowded", "determined"],
+      "police": ["in the distance", "watchful"]
+    },
+    "Text": {}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "action"},
+    "Background": {"setting": "Paris streets", "colors": ["gray", "urban"]},
+    "Objects": {
+      "megaphone": ["used by protester"],
+      "flags": ["waved", "various"]
+    },
+    "Character": {
+      "protesters": ["chanting", "passionate"],
+      "police": ["forming a line", "shielded"]
+    },
+    "Text": {}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "resolve"},
+    "Background": {"setting": "Paris streets", "time": "dusk", "colors": ["soft orange", "urban"]},
+    "Objects": {
+      "candles": ["lit", "by protesters"],
+      "flowers": ["placed", "memorial"]
+    },
+    "Character": {
+      "protesters": ["gathered", "quiet"],
+      "police": ["standing back", "respectful"]
+    },
+    "Text": {}
+  }
+},
+
+"americans being confused about the metric system": {
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "bewilderment"},
+    "Background": {"setting": "international airport", "colors": ["neutral", "crowded"]},
+    "Objects": {
+      "signs": ["displaying distances in meters", "flight information"]
+    },
+    "Character": {
+      "American travelers": ["looking puzzled", "examining a sign"]
+    },
+    "Text": {"speech bubble": ["'What does 100 meters mean in real distance?'"]}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "confusion"},
+    "Background": {"setting": "coffee shop", "colors": ["cozy", "busy"]},
+    "Objects": {
+      "menu": ["listing drink sizes in liters"]
+    },
+    "Character": {
+      "American customer": ["scratching head", "looking at menu"]
+    },
+    "Text": {"speech bubble": ["'How many ounces in a liter again?'"]}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "realization"},
+    "Background": {"setting": "outdoor market", "colors": ["vibrant", "populated"]},
+    "Objects": {
+      "fruit stand": ["displaying prices per kilogram"]
+    },
+    "Character": {
+      "American shopper": ["holding a smartphone", "using a conversion app"]
+    },
+    "Text": {"bottom": ["'Thank goodness for conversion apps!'"]}
+  }
+},
+
+"toy soldiers fighting in the battle of the ardennes":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "strategic"},
+    "Background": {"setting": "Ardennes forest", "time": "winter", "colors": ["snow-covered", "dense trees"]},
+    "Objects": {
+      "toy soldiers": ["American", "advancing"],
+      "tank models": ["one", "supporting infantry"]
+    },
+    "Character": {},
+    "Text": {"bottom": ["The Ardennes, 1944: Toy Soldiers Advance"]}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "confrontation"},
+    "Background": {"setting": "battlefield", "colors": ["snowy", "craters"]},
+    "Objects": {
+      "toy soldiers": ["German", "defending"],
+      "artillery models": ["positioned", "firing"]
+    },
+    "Character": {},
+    "Text": {"bottom": ["Defenders Hold Their Ground"]}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "climax"},
+    "Background": {"setting": "ruined village", "colors": ["snow-covered", "destroyed buildings"]},
+    "Objects": {
+      "toy soldiers": ["both sides", "clashing"],
+      "destroyed models": ["tanks", "artillery"]
+    },
+    "Character": {},
+    "Text": {"bottom": ["A Fierce Battle Reimagined"]}
+  }
+},
+
+"a food fight in a high school":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "anticipation"},
+    "Background": {"setting": "high school cafeteria", "colors": ["bright", "crowded"]},
+    "Objects": {
+      "trays": ["filled with food", "on tables"]
+    },
+    "Character": {
+      "students": ["gathering", "eyeing each other"],
+      "teacher": ["unaware", "eating"]
+    },
+    "Text": {"bottom": ["The calm before the storm..."]}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "chaos"},
+    "Background": {"setting": "high school cafeteria", "colors": ["action-packed"]},
+    "Objects": {
+      "flying food": ["various", "mid-air"]
+    },
+    "Character": {
+      "students": ["laughing", "throwing food"],
+      "teacher": ["shocked", "covered in food"]
+    },
+    "Text": {"bottom": ["And it begins!"]}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "aftermath"},
+    "Background": {"setting": "high school cafeteria", "colors": ["messy", "calming down"]},
+    "Objects": {
+      "food remains": ["everywhere", "on floors and tables"]
+    },
+    "Character": {
+      "students": ["tired", "smiling"],
+      "janitor": ["displeased", "holding a mop"]
+    },
+    "Text": {"bottom": ["The aftermath..."]}
+  }
+},
+
+"lego firefighters extinguishing a fire in lego city":{
+  "Panel 1": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "emergency"},
+    "Background": {"setting": "Lego city", "time": "day", "colors": ["bright", "structured"]},
+    "Objects": {
+      "Lego fire": ["small", "starting in a building"]
+    },
+    "Character": {
+      "Lego firefighters": ["rushing", "with fire truck", "towards fire"]
+    },
+    "Text": {"bottom": ["Emergency in Lego City!"]}
+  },
+  "Panel 2": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "action"},
+    "Background": {"setting": "Lego city", "colors": ["bright", "chaotic"]},
+    "Objects": {
+      "Lego fire": ["larger", "engulfing building"],
+      "water streams": ["from hoses", "towards fire"]
+    },
+    "Character": {
+      "Lego firefighters": ["operating hoses", "focused"]
+    },
+    "Text": {"bottom": ["Firefighters at work!"]}
+  },
+  "Panel 3": {
+    "Frame": {"shape": "square", "color": "white"},
+    "Style": {"theme": "relief"},
+    "Background": {"setting": "Lego city", "time": "dusk", "colors": ["calm", "restored"]},
+    "Objects": {
+      "Lego fire": ["extinguished"],
+      "Lego building": ["saved", "slightly charred"]
+    },
+    "Character": {
+      "Lego firefighters": ["celebrating", "next to fire truck"]
+    },
+    "Text": {"bottom": ["Fire extinguished. Lego City is safe again!"]}
+  }
+}
+}
