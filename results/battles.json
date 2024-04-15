@@ -1,0 +1,6110 @@
+[
+  {
+    "winner": "QtdY7gpe1vW9Fii8",
+    "elo_gain": 16,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -16
+  },
+  {
+    "winner": "QtdY7gpe1vW9Fii8",
+    "elo_gain": 15,
+    "loser": "dRZI8ElRCa8ZXlqE",
+    "elo_loss": -15
+  },
+  {
+    "winner": "005gabmHgMbjUT39",
+    "elo_gain": 17,
+    "loser": "QtdY7gpe1vW9Fii8",
+    "elo_loss": -17
+  },
+  {
+    "winner": "005gabmHgMbjUT39",
+    "elo_gain": 15,
+    "loser": "APTtM4hmTdT5951C",
+    "elo_loss": -15
+  },
+  {
+    "winner": "005gabmHgMbjUT39",
+    "elo_gain": 15,
+    "loser": "CGEUBuobQQbG8Dag",
+    "elo_loss": -15
+  },
+  {
+    "winner": "005gabmHgMbjUT39",
+    "elo_gain": 14,
+    "loser": "eJVVXwFIlInJYfmH",
+    "elo_loss": -14
+  },
+  {
+    "winner": "005gabmHgMbjUT39",
+    "elo_gain": 13,
+    "loser": "0cvYLo6crwD0x249",
+    "elo_loss": -13
+  },
+  {
+    "winner": "dji4UHUiOGUeiyEw",
+    "elo_gain": 16,
+    "loser": "ieYAERZovDX5tZIP",
+    "elo_loss": -16
+  },
+  {
+    "winner": "dji4UHUiOGUeiyEw",
+    "elo_gain": 15,
+    "loser": "SZzcMaKp2S0CFfP5",
+    "elo_loss": -15
+  },
+  {
+    "winner": "eYnVIXWc7HRz89DT",
+    "elo_gain": 17,
+    "loser": "dji4UHUiOGUeiyEw",
+    "elo_loss": -17
+  },
+  {
+    "winner": "eYnVIXWc7HRz89DT",
+    "elo_gain": 15,
+    "loser": "aYJbjcqmwvEGD2Mo",
+    "elo_loss": -15
+  },
+  {
+    "winner": "eYnVIXWc7HRz89DT",
+    "elo_gain": 15,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -15
+  },
+  {
+    "winner": "UOLjuJtH2gcH1wqY",
+    "elo_gain": 18,
+    "loser": "eYnVIXWc7HRz89DT",
+    "elo_loss": -18
+  },
+  {
+    "winner": "PeJwIIKkpWseL6Sq",
+    "elo_gain": 17,
+    "loser": "UOLjuJtH2gcH1wqY",
+    "elo_loss": -17
+  },
+  {
+    "winner": "PeJwIIKkpWseL6Sq",
+    "elo_gain": 14,
+    "loser": "jKJTEhUSG1IQRAQv",
+    "elo_loss": -14
+  },
+  {
+    "winner": "3wLxmlufRMt9PxRn",
+    "elo_gain": 16,
+    "loser": "zYDvg26oGXalEV6a",
+    "elo_loss": -16
+  },
+  {
+    "winner": "3wLxmlufRMt9PxRn",
+    "elo_gain": 16,
+    "loser": "NlOx8yV7dCpFX6Un",
+    "elo_loss": -16
+  },
+  {
+    "winner": "3wLxmlufRMt9PxRn",
+    "elo_gain": 15,
+    "loser": "SSxYNgBx0IIQQH39",
+    "elo_loss": -15
+  },
+  {
+    "winner": "6aZksDm71D9LIi3g",
+    "elo_gain": 18,
+    "loser": "3wLxmlufRMt9PxRn",
+    "elo_loss": -18
+  },
+  {
+    "winner": "6aZksDm71D9LIi3g",
+    "elo_gain": 15,
+    "loser": "5RXdhFqA8xM7qJvS",
+    "elo_loss": -15
+  },
+  {
+    "winner": "6aZksDm71D9LIi3g",
+    "elo_gain": 14,
+    "loser": "dRZI8ElRCa8ZXlqE",
+    "elo_loss": -14
+  },
+  {
+    "winner": "6aZksDm71D9LIi3g",
+    "elo_gain": 16,
+    "loser": "oWSZDeiHH5sVNbKR",
+    "elo_loss": -16
+  },
+  {
+    "winner": "eYnVIXWc7HRz89DT",
+    "elo_gain": 18,
+    "loser": "6aZksDm71D9LIi3g",
+    "elo_loss": -18
+  },
+  {
+    "winner": "IdR0ag1Kt7eVfEez",
+    "elo_gain": 17,
+    "loser": "DObxYD5k3q3dpp3i",
+    "elo_loss": -17
+  },
+  {
+    "winner": "IdR0ag1Kt7eVfEez",
+    "elo_gain": 15,
+    "loser": "SSxYNgBx0IIQQH39",
+    "elo_loss": -15
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 9,
+    "loser": "IdR0ag1Kt7eVfEez",
+    "elo_loss": -9
+  },
+  {
+    "winner": "G4s58Ecl3IC8HvSV",
+    "elo_gain": 16,
+    "loser": "tIM89xXjmaFqamQ0",
+    "elo_loss": -16
+  },
+  {
+    "winner": "KYx93klmVHqGyHjr",
+    "elo_gain": 8,
+    "loser": "RNH3Tc6WsTxqmqaV",
+    "elo_loss": -8
+  },
+  {
+    "winner": "1UKazLaWaLJ6j2Ag",
+    "elo_gain": 8,
+    "loser": "N6oe9MCNT6r84iuw",
+    "elo_loss": -8
+  },
+  {
+    "winner": "iL1jGL7cPJipQkpR",
+    "elo_gain": 16,
+    "loser": "euTJVauLKxjZVdRb",
+    "elo_loss": -16
+  },
+  {
+    "winner": "fyMQ4CTRfS7odnxa",
+    "elo_gain": 8,
+    "loser": "iL1jGL7cPJipQkpR",
+    "elo_loss": -8
+  },
+  {
+    "winner": "KTZO16NyeQUNtTzp",
+    "elo_gain": 15,
+    "loser": "5RXdhFqA8xM7qJvS",
+    "elo_loss": -15
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 9,
+    "loser": "diZlsknMy9TzKlzA",
+    "elo_loss": -9
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 7,
+    "loser": "Ow61V3RmP40Nsp1D",
+    "elo_loss": -7
+  },
+  {
+    "winner": "5mkqMLaDV8d1FAeg",
+    "elo_gain": 16,
+    "loser": "M3ziUCRTKSRKsgfd",
+    "elo_loss": -16
+  },
+  {
+    "winner": "zmmL1f7zqPRNDKTt",
+    "elo_gain": 17,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -17
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 16,
+    "loser": "UOLjuJtH2gcH1wqY",
+    "elo_loss": -16
+  },
+  {
+    "winner": "1UKazLaWaLJ6j2Ag",
+    "elo_gain": 9,
+    "loser": "eYnVIXWc7HRz89DT",
+    "elo_loss": -9
+  },
+  {
+    "winner": "qgJS4lNPuYvTnQAi",
+    "elo_gain": 18,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -18
+  },
+  {
+    "winner": "5mkqMLaDV8d1FAeg",
+    "elo_gain": 16,
+    "loser": "M0sgZB7QcRxo4tKs",
+    "elo_loss": -16
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 8,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -8
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 8,
+    "loser": "PeJwIIKkpWseL6Sq",
+    "elo_loss": -8
+  },
+  {
+    "winner": "BdQJcRpVrnrupHSM",
+    "elo_gain": 16,
+    "loser": "5eMZ9nxesfZ3itVW",
+    "elo_loss": -16
+  },
+  {
+    "winner": "BdQJcRpVrnrupHSM",
+    "elo_gain": 15,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -15
+  },
+  {
+    "winner": "DFhIrm2Bv4HQz1Go",
+    "elo_gain": 17,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -17
+  },
+  {
+    "winner": "jKJTEhUSG1IQRAQv",
+    "elo_gain": 17,
+    "loser": "qCNsVq6HXLO5bF39",
+    "elo_loss": -17
+  },
+  {
+    "winner": "eYnVIXWc7HRz89DT",
+    "elo_gain": 15,
+    "loser": "KTZO16NyeQUNtTzp",
+    "elo_loss": -15
+  },
+  {
+    "winner": "eYnVIXWc7HRz89DT",
+    "elo_gain": 14,
+    "loser": "VcNNnp2l9kEmiucI",
+    "elo_loss": -14
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 10,
+    "loser": "eYnVIXWc7HRz89DT",
+    "elo_loss": -10
+  },
+  {
+    "winner": "qgJS4lNPuYvTnQAi",
+    "elo_gain": 17,
+    "loser": "I0pGSCtrZK0DbF5a",
+    "elo_loss": -17
+  },
+  {
+    "winner": "qgJS4lNPuYvTnQAi",
+    "elo_gain": 17,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -17
+  },
+  {
+    "winner": "puU9eo3hEkGTnB0n",
+    "elo_gain": 15,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -15
+  },
+  {
+    "winner": "puU9eo3hEkGTnB0n",
+    "elo_gain": 15,
+    "loser": "HY8lxad4GO7cw4Hg",
+    "elo_loss": -15
+  },
+  {
+    "winner": "5mkqMLaDV8d1FAeg",
+    "elo_gain": 17,
+    "loser": "puU9eo3hEkGTnB0n",
+    "elo_loss": -17
+  },
+  {
+    "winner": "IdR0ag1Kt7eVfEez",
+    "elo_gain": 16,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -16
+  },
+  {
+    "winner": "G4s58Ecl3IC8HvSV",
+    "elo_gain": 15,
+    "loser": "2P99CxbqAsXirau8",
+    "elo_loss": -15
+  },
+  {
+    "winner": "dji4UHUiOGUeiyEw",
+    "elo_gain": 17,
+    "loser": "3wLxmlufRMt9PxRn",
+    "elo_loss": -17
+  },
+  {
+    "winner": "dji4UHUiOGUeiyEw",
+    "elo_gain": 14,
+    "loser": "DDUifpzehAWEKNv5",
+    "elo_loss": -14
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 9,
+    "loser": "dji4UHUiOGUeiyEw",
+    "elo_loss": -9
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 6,
+    "loser": "64xNGsbL1tIyrfe2",
+    "elo_loss": -6
+  },
+  {
+    "winner": "d6kE5EvxU79sACrJ",
+    "elo_gain": 14,
+    "loser": "64xNGsbL1tIyrfe2",
+    "elo_loss": -14
+  },
+  {
+    "winner": "3wLxmlufRMt9PxRn",
+    "elo_gain": 14,
+    "loser": "0cvYLo6crwD0x249",
+    "elo_loss": -14
+  },
+  {
+    "winner": "FQeedPnz9jA5RRa6",
+    "elo_gain": 17,
+    "loser": "d6kE5EvxU79sACrJ",
+    "elo_loss": -17
+  },
+  {
+    "winner": "3wLxmlufRMt9PxRn",
+    "elo_gain": 15,
+    "loser": "mwQJpkKN2nQHtWEG",
+    "elo_loss": -15
+  },
+  {
+    "winner": "qgJS4lNPuYvTnQAi",
+    "elo_gain": 18,
+    "loser": "3wLxmlufRMt9PxRn",
+    "elo_loss": -18
+  },
+  {
+    "winner": "FQeedPnz9jA5RRa6",
+    "elo_gain": 18,
+    "loser": "eYnVIXWc7HRz89DT",
+    "elo_loss": -18
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 7,
+    "loser": "qgJS4lNPuYvTnQAi",
+    "elo_loss": -7
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 8,
+    "loser": "FQeedPnz9jA5RRa6",
+    "elo_loss": -8
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 16,
+    "loser": "zDSkNCJWjuAciex7",
+    "elo_loss": -16
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 15,
+    "loser": "8gnvRvjq2GkObL5L",
+    "elo_loss": -15
+  },
+  {
+    "winner": "e2vhEJIZx6IvACQK",
+    "elo_gain": 14,
+    "loser": "RxJ5n2K41Ai05xU2",
+    "elo_loss": -14
+  },
+  {
+    "winner": "YBSLlzjp2mp8b9aN",
+    "elo_gain": 15,
+    "loser": "HY8lxad4GO7cw4Hg",
+    "elo_loss": -15
+  },
+  {
+    "winner": "INRhr66RVIG4G8cj",
+    "elo_gain": 15,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -15
+  },
+  {
+    "winner": "zmmL1f7zqPRNDKTt",
+    "elo_gain": 17,
+    "loser": "INRhr66RVIG4G8cj",
+    "elo_loss": -17
+  },
+  {
+    "winner": "fyMQ4CTRfS7odnxa",
+    "elo_gain": 8,
+    "loser": "4NO5OrNuq5mmMmeS",
+    "elo_loss": -8
+  },
+  {
+    "winner": "5eMZ9nxesfZ3itVW",
+    "elo_gain": 25,
+    "loser": "fyMQ4CTRfS7odnxa",
+    "elo_loss": -25
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 17,
+    "loser": "5eMZ9nxesfZ3itVW",
+    "elo_loss": -17
+  },
+  {
+    "winner": "QtdY7gpe1vW9Fii8",
+    "elo_gain": 15,
+    "loser": "KPnyaxQ4N72YdYCY",
+    "elo_loss": -15
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 17,
+    "loser": "diZlsknMy9TzKlzA",
+    "elo_loss": -17
+  },
+  {
+    "winner": "KYx93klmVHqGyHjr",
+    "elo_gain": 8,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -8
+  },
+  {
+    "winner": "31QikiI7GYoAhu9n",
+    "elo_gain": 17,
+    "loser": "FQeedPnz9jA5RRa6",
+    "elo_loss": -17
+  },
+  {
+    "winner": "oWSZDeiHH5sVNbKR",
+    "elo_gain": 15,
+    "loser": "31QikiI7GYoAhu9n",
+    "elo_loss": -15
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 10,
+    "loser": "oWSZDeiHH5sVNbKR",
+    "elo_loss": -10
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 7,
+    "loser": "cy7lYdtu3pePSGOk",
+    "elo_loss": -7
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 8,
+    "loser": "IdR0ag1Kt7eVfEez",
+    "elo_loss": -8
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 6,
+    "loser": "CGEUBuobQQbG8Dag",
+    "elo_loss": -6
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 14,
+    "loser": "8gnvRvjq2GkObL5L",
+    "elo_loss": -14
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 7,
+    "loser": "u7AL8DQ1aq8Gh2A8",
+    "elo_loss": -7
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 6,
+    "loser": "ZXvWtaXZQRSDSj40",
+    "elo_loss": -6
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 6,
+    "loser": "EVz4L7f9IORgTaEh",
+    "elo_loss": -6
+  },
+  {
+    "winner": "Qn9b9ADKu7r0oBzl",
+    "elo_gain": 27,
+    "loser": "8pOvfI0dgghYW6HY",
+    "elo_loss": -27
+  },
+  {
+    "winner": "Qn9b9ADKu7r0oBzl",
+    "elo_gain": 15,
+    "loser": "Ow61V3RmP40Nsp1D",
+    "elo_loss": -15
+  },
+  {
+    "winner": "Qn9b9ADKu7r0oBzl",
+    "elo_gain": 14,
+    "loser": "UOLjuJtH2gcH1wqY",
+    "elo_loss": -14
+  },
+  {
+    "winner": "Qn9b9ADKu7r0oBzl",
+    "elo_gain": 14,
+    "loser": "GYhsA3VUpUK99zBN",
+    "elo_loss": -14
+  },
+  {
+    "winner": "Qn9b9ADKu7r0oBzl",
+    "elo_gain": 15,
+    "loser": "IdR0ag1Kt7eVfEez",
+    "elo_loss": -15
+  },
+  {
+    "winner": "Qn9b9ADKu7r0oBzl",
+    "elo_gain": 12,
+    "loser": "zYDvg26oGXalEV6a",
+    "elo_loss": -12
+  },
+  {
+    "winner": "EBhIO7kkdtGTF2Nh",
+    "elo_gain": 16,
+    "loser": "Mb0wmA9kimCCjBLp",
+    "elo_loss": -16
+  },
+  {
+    "winner": "8gnvRvjq2GkObL5L",
+    "elo_gain": 9,
+    "loser": "EBhIO7kkdtGTF2Nh",
+    "elo_loss": -9
+  },
+  {
+    "winner": "8gnvRvjq2GkObL5L",
+    "elo_gain": 8,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -8
+  },
+  {
+    "winner": "8gnvRvjq2GkObL5L",
+    "elo_gain": 8,
+    "loser": "KTZO16NyeQUNtTzp",
+    "elo_loss": -8
+  },
+  {
+    "winner": "0cvYLo6crwD0x249",
+    "elo_gain": 26,
+    "loser": "8gnvRvjq2GkObL5L",
+    "elo_loss": -26
+  },
+  {
+    "winner": "RxJ5n2K41Ai05xU2",
+    "elo_gain": 20,
+    "loser": "dji4UHUiOGUeiyEw",
+    "elo_loss": -20
+  },
+  {
+    "winner": "RxJ5n2K41Ai05xU2",
+    "elo_gain": 26,
+    "loser": "zDSkNCJWjuAciex7",
+    "elo_loss": -26
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 17,
+    "loser": "PeJwIIKkpWseL6Sq",
+    "elo_loss": -17
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 15,
+    "loser": "DDUifpzehAWEKNv5",
+    "elo_loss": -15
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 15,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -15
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 14,
+    "loser": "Ow61V3RmP40Nsp1D",
+    "elo_loss": -14
+  },
+  {
+    "winner": "e2vhEJIZx6IvACQK",
+    "elo_gain": 14,
+    "loser": "ieYAERZovDX5tZIP",
+    "elo_loss": -14
+  },
+  {
+    "winner": "N6oe9MCNT6r84iuw",
+    "elo_gain": 16,
+    "loser": "s2HmnRRXUm1k0R7P",
+    "elo_loss": -16
+  },
+  {
+    "winner": "N6oe9MCNT6r84iuw",
+    "elo_gain": 16,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -16
+  },
+  {
+    "winner": "JPSofvCmXQl0tn9K",
+    "elo_gain": 17,
+    "loser": "IdR0ag1Kt7eVfEez",
+    "elo_loss": -17
+  },
+  {
+    "winner": "KYx93klmVHqGyHjr",
+    "elo_gain": 8,
+    "loser": "JPSofvCmXQl0tn9K",
+    "elo_loss": -8
+  },
+  {
+    "winner": "KYx93klmVHqGyHjr",
+    "elo_gain": 8,
+    "loser": "e2vhEJIZx6IvACQK",
+    "elo_loss": -8
+  },
+  {
+    "winner": "xcY4Y0Qbo7I4Qibi",
+    "elo_gain": 15,
+    "loser": "euTJVauLKxjZVdRb",
+    "elo_loss": -15
+  },
+  {
+    "winner": "xcY4Y0Qbo7I4Qibi",
+    "elo_gain": 14,
+    "loser": "CGEUBuobQQbG8Dag",
+    "elo_loss": -14
+  },
+  {
+    "winner": "qgJS4lNPuYvTnQAi",
+    "elo_gain": 16,
+    "loser": "FQeedPnz9jA5RRa6",
+    "elo_loss": -16
+  },
+  {
+    "winner": "KTZO16NyeQUNtTzp",
+    "elo_gain": 18,
+    "loser": "qgJS4lNPuYvTnQAi",
+    "elo_loss": -18
+  },
+  {
+    "winner": "jmLb3zzW8h8AFcP2",
+    "elo_gain": 17,
+    "loser": "2Vs3mrs9R0cSgaGN",
+    "elo_loss": -17
+  },
+  {
+    "winner": "aYJbjcqmwvEGD2Mo",
+    "elo_gain": 17,
+    "loser": "KTZO16NyeQUNtTzp",
+    "elo_loss": -17
+  },
+  {
+    "winner": "G4s58Ecl3IC8HvSV",
+    "elo_gain": 14,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -14
+  },
+  {
+    "winner": "G4s58Ecl3IC8HvSV",
+    "elo_gain": 13,
+    "loser": "UOLjuJtH2gcH1wqY",
+    "elo_loss": -13
+  },
+  {
+    "winner": "8gnvRvjq2GkObL5L",
+    "elo_gain": 9,
+    "loser": "31QikiI7GYoAhu9n",
+    "elo_loss": -9
+  },
+  {
+    "winner": "ZvUuPWyYT0NdpvQ3",
+    "elo_gain": 11,
+    "loser": "G4s58Ecl3IC8HvSV",
+    "elo_loss": -11
+  },
+  {
+    "winner": "ZvUuPWyYT0NdpvQ3",
+    "elo_gain": 7,
+    "loser": "dRZI8ElRCa8ZXlqE",
+    "elo_loss": -7
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 15,
+    "loser": "4y3DA6b9VQslQHbw",
+    "elo_loss": -15
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 19,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -19
+  },
+  {
+    "winner": "ZvUuPWyYT0NdpvQ3",
+    "elo_gain": 8,
+    "loser": "aYJbjcqmwvEGD2Mo",
+    "elo_loss": -8
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 17,
+    "loser": "RxJ5n2K41Ai05xU2",
+    "elo_loss": -17
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 16,
+    "loser": "ZvUuPWyYT0NdpvQ3",
+    "elo_loss": -16
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 17,
+    "loser": "INRhr66RVIG4G8cj",
+    "elo_loss": -17
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 15,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -15
+  },
+  {
+    "winner": "Mb0wmA9kimCCjBLp",
+    "elo_gain": 16,
+    "loser": "M0sgZB7QcRxo4tKs",
+    "elo_loss": -16
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 15,
+    "loser": "sHqYHVVLgwTeyAR5",
+    "elo_loss": -15
+  },
+  {
+    "winner": "Mb0wmA9kimCCjBLp",
+    "elo_gain": 16,
+    "loser": "O1rBp7yEzBz23ATA",
+    "elo_loss": -16
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 14,
+    "loser": "NlOx8yV7dCpFX6Un",
+    "elo_loss": -14
+  },
+  {
+    "winner": "Mb0wmA9kimCCjBLp",
+    "elo_gain": 15,
+    "loser": "cy7lYdtu3pePSGOk",
+    "elo_loss": -15
+  },
+  {
+    "winner": "Mb0wmA9kimCCjBLp",
+    "elo_gain": 16,
+    "loser": "DFhIrm2Bv4HQz1Go",
+    "elo_loss": -16
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 16,
+    "loser": "Mb0wmA9kimCCjBLp",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Mb0wmA9kimCCjBLp",
+    "elo_gain": 16,
+    "loser": "3wLxmlufRMt9PxRn",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Mb0wmA9kimCCjBLp",
+    "elo_gain": 13,
+    "loser": "qCNsVq6HXLO5bF39",
+    "elo_loss": -13
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 12,
+    "loser": "tIM89xXjmaFqamQ0",
+    "elo_loss": -12
+  },
+  {
+    "winner": "Mb0wmA9kimCCjBLp",
+    "elo_gain": 11,
+    "loser": "64xNGsbL1tIyrfe2",
+    "elo_loss": -11
+  },
+  {
+    "winner": "Mb0wmA9kimCCjBLp",
+    "elo_gain": 12,
+    "loser": "2P99CxbqAsXirau8",
+    "elo_loss": -12
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 9,
+    "loser": "DDUifpzehAWEKNv5",
+    "elo_loss": -9
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 9,
+    "loser": "Mb0wmA9kimCCjBLp",
+    "elo_loss": -9
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "4y3DA6b9VQslQHbw",
+    "elo_loss": -5
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -5
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 7,
+    "loser": "6aZksDm71D9LIi3g",
+    "elo_loss": -7
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 16,
+    "loser": "d6kE5EvxU79sACrJ",
+    "elo_loss": -16
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "4y3DA6b9VQslQHbw",
+    "elo_loss": -5
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "KTZO16NyeQUNtTzp",
+    "elo_loss": -5
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "jJOpN3bYQcHhDzS3",
+    "elo_loss": -5
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "KTZO16NyeQUNtTzp",
+    "elo_loss": -5
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "aYJbjcqmwvEGD2Mo",
+    "elo_loss": -5
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 16,
+    "loser": "EVz4L7f9IORgTaEh",
+    "elo_loss": -16
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "YBSLlzjp2mp8b9aN",
+    "elo_loss": -5
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 6,
+    "loser": "005gabmHgMbjUT39",
+    "elo_loss": -6
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 15,
+    "loser": "ULYW5A2s9yKfLJ1v",
+    "elo_loss": -15
+  },
+  {
+    "winner": "Ow61V3RmP40Nsp1D",
+    "elo_gain": 17,
+    "loser": "ZXvWtaXZQRSDSj40",
+    "elo_loss": -17
+  },
+  {
+    "winner": "Ow61V3RmP40Nsp1D",
+    "elo_gain": 16,
+    "loser": "2P99CxbqAsXirau8",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Ow61V3RmP40Nsp1D",
+    "elo_gain": 16,
+    "loser": "PeJwIIKkpWseL6Sq",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 13,
+    "loser": "mwQJpkKN2nQHtWEG",
+    "elo_loss": -13
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 13,
+    "loser": "diZlsknMy9TzKlzA",
+    "elo_loss": -13
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 17,
+    "loser": "Ow61V3RmP40Nsp1D",
+    "elo_loss": -17
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 11,
+    "loser": "qCNsVq6HXLO5bF39",
+    "elo_loss": -11
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 15,
+    "loser": "KPnyaxQ4N72YdYCY",
+    "elo_loss": -15
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 13,
+    "loser": "5RXdhFqA8xM7qJvS",
+    "elo_loss": -13
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 13,
+    "loser": "tIM89xXjmaFqamQ0",
+    "elo_loss": -13
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 13,
+    "loser": "VcNNnp2l9kEmiucI",
+    "elo_loss": -13
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 11,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -11
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 12,
+    "loser": "RNH3Tc6WsTxqmqaV",
+    "elo_loss": -12
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 12,
+    "loser": "31cvl57OCSiA3z6D",
+    "elo_loss": -12
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 14,
+    "loser": "e2vhEJIZx6IvACQK",
+    "elo_loss": -14
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 10,
+    "loser": "qCNsVq6HXLO5bF39",
+    "elo_loss": -10
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 12,
+    "loser": "xcY4Y0Qbo7I4Qibi",
+    "elo_loss": -12
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 11,
+    "loser": "DFhIrm2Bv4HQz1Go",
+    "elo_loss": -11
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 13,
+    "loser": "005gabmHgMbjUT39",
+    "elo_loss": -13
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 8,
+    "loser": "UOLjuJtH2gcH1wqY",
+    "elo_loss": -8
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 9,
+    "loser": "diZlsknMy9TzKlzA",
+    "elo_loss": -9
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 6,
+    "loser": "SSxYNgBx0IIQQH39",
+    "elo_loss": -6
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 11,
+    "loser": "PDawiGizhAvtK6lG",
+    "elo_loss": -11
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 21,
+    "loser": "wqBvlF9VzCZfW9Pv",
+    "elo_loss": -21
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 6,
+    "loser": "Ow61V3RmP40Nsp1D",
+    "elo_loss": -6
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 8,
+    "loser": "oWSZDeiHH5sVNbKR",
+    "elo_loss": -8
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 5,
+    "loser": "euTJVauLKxjZVdRb",
+    "elo_loss": -5
+  },
+  {
+    "winner": "zmmL1f7zqPRNDKTt",
+    "elo_gain": 20,
+    "loser": "Art0uhZaxrhgcEml",
+    "elo_loss": -20
+  },
+  {
+    "winner": "eJVVXwFIlInJYfmH",
+    "elo_gain": 15,
+    "loser": "4y3DA6b9VQslQHbw",
+    "elo_loss": -15
+  },
+  {
+    "winner": "eJVVXwFIlInJYfmH",
+    "elo_gain": 20,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -20
+  },
+  {
+    "winner": "eJVVXwFIlInJYfmH",
+    "elo_gain": 13,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -13
+  },
+  {
+    "winner": "eJVVXwFIlInJYfmH",
+    "elo_gain": 16,
+    "loser": "0jXEt37DpQWrBvSy",
+    "elo_loss": -16
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 8,
+    "loser": "eJVVXwFIlInJYfmH",
+    "elo_loss": -8
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 5,
+    "loser": "2Vs3mrs9R0cSgaGN",
+    "elo_loss": -5
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 5,
+    "loser": "DKbMvL1d43UdrLry",
+    "elo_loss": -5
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 15,
+    "loser": "APTtM4hmTdT5951C",
+    "elo_loss": -15
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 18,
+    "loser": "005gabmHgMbjUT39",
+    "elo_loss": -18
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 23,
+    "loser": "zGDNALOhnT57ALGA",
+    "elo_loss": -23
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 13,
+    "loser": "GYhsA3VUpUK99zBN",
+    "elo_loss": -13
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 5,
+    "loser": "31cvl57OCSiA3z6D",
+    "elo_loss": -5
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 9,
+    "loser": "Art0uhZaxrhgcEml",
+    "elo_loss": -9
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 27,
+    "loser": "zDSkNCJWjuAciex7",
+    "elo_loss": -27
+  },
+  {
+    "winner": "DKbMvL1d43UdrLry",
+    "elo_gain": 21,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -21
+  },
+  {
+    "winner": "DKbMvL1d43UdrLry",
+    "elo_gain": 17,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -17
+  },
+  {
+    "winner": "zGDNALOhnT57ALGA",
+    "elo_gain": 9,
+    "loser": "DKbMvL1d43UdrLry",
+    "elo_loss": -9
+  },
+  {
+    "winner": "RNH3Tc6WsTxqmqaV",
+    "elo_gain": 25,
+    "loser": "zGDNALOhnT57ALGA",
+    "elo_loss": -25
+  },
+  {
+    "winner": "5mkqMLaDV8d1FAeg",
+    "elo_gain": 16,
+    "loser": "e2vhEJIZx6IvACQK",
+    "elo_loss": -16
+  },
+  {
+    "winner": "eJVVXwFIlInJYfmH",
+    "elo_gain": 14,
+    "loser": "HgUVmZs26tTiaR9b",
+    "elo_loss": -14
+  },
+  {
+    "winner": "eYnVIXWc7HRz89DT",
+    "elo_gain": 12,
+    "loser": "dRZI8ElRCa8ZXlqE",
+    "elo_loss": -12
+  },
+  {
+    "winner": "eYnVIXWc7HRz89DT",
+    "elo_gain": 20,
+    "loser": "lG3Cz4dbRO5AhG1C",
+    "elo_loss": -20
+  },
+  {
+    "winner": "Mb0wmA9kimCCjBLp",
+    "elo_gain": 15,
+    "loser": "eJVVXwFIlInJYfmH",
+    "elo_loss": -15
+  },
+  {
+    "winner": "SZzcMaKp2S0CFfP5",
+    "elo_gain": 21,
+    "loser": "Mb0wmA9kimCCjBLp",
+    "elo_loss": -21
+  },
+  {
+    "winner": "eYnVIXWc7HRz89DT",
+    "elo_gain": 13,
+    "loser": "rTjiGmY2i5qy3tnE",
+    "elo_loss": -13
+  },
+  {
+    "winner": "fyMQ4CTRfS7odnxa",
+    "elo_gain": 8,
+    "loser": "SZzcMaKp2S0CFfP5",
+    "elo_loss": -8
+  },
+  {
+    "winner": "eYnVIXWc7HRz89DT",
+    "elo_gain": 11,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -11
+  },
+  {
+    "winner": "ZvUuPWyYT0NdpvQ3",
+    "elo_gain": 16,
+    "loser": "fyMQ4CTRfS7odnxa",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Wt0QKAtkNtuT9JJ9",
+    "elo_gain": 20,
+    "loser": "eYnVIXWc7HRz89DT",
+    "elo_loss": -20
+  },
+  {
+    "winner": "Wt0QKAtkNtuT9JJ9",
+    "elo_gain": 16,
+    "loser": "QtdY7gpe1vW9Fii8",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Wt0QKAtkNtuT9JJ9",
+    "elo_gain": 14,
+    "loser": "YBSLlzjp2mp8b9aN",
+    "elo_loss": -14
+  },
+  {
+    "winner": "Wt0QKAtkNtuT9JJ9",
+    "elo_gain": 13,
+    "loser": "tzWrCRPa3TxPucUj",
+    "elo_loss": -13
+  },
+  {
+    "winner": "OIRghMchVqXcttCf",
+    "elo_gain": 20,
+    "loser": "Wt0QKAtkNtuT9JJ9",
+    "elo_loss": -20
+  },
+  {
+    "winner": "OIRghMchVqXcttCf",
+    "elo_gain": 19,
+    "loser": "Art0uhZaxrhgcEml",
+    "elo_loss": -19
+  },
+  {
+    "winner": "zmmL1f7zqPRNDKTt",
+    "elo_gain": 15,
+    "loser": "OIRghMchVqXcttCf",
+    "elo_loss": -15
+  },
+  {
+    "winner": "KPnyaxQ4N72YdYCY",
+    "elo_gain": 18,
+    "loser": "EBhIO7kkdtGTF2Nh",
+    "elo_loss": -18
+  },
+  {
+    "winner": "KPnyaxQ4N72YdYCY",
+    "elo_gain": 17,
+    "loser": "DFhIrm2Bv4HQz1Go",
+    "elo_loss": -17
+  },
+  {
+    "winner": "euTJVauLKxjZVdRb",
+    "elo_gain": 21,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -21
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 6,
+    "loser": "euTJVauLKxjZVdRb",
+    "elo_loss": -6
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 16,
+    "loser": "0jXEt37DpQWrBvSy",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Mb0wmA9kimCCjBLp",
+    "elo_gain": 15,
+    "loser": "G4s58Ecl3IC8HvSV",
+    "elo_loss": -15
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 15,
+    "loser": "jJOpN3bYQcHhDzS3",
+    "elo_loss": -15
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 12,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -12
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 12,
+    "loser": "mwQJpkKN2nQHtWEG",
+    "elo_loss": -12
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 12,
+    "loser": "cy7lYdtu3pePSGOk",
+    "elo_loss": -12
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 11,
+    "loser": "euTJVauLKxjZVdRb",
+    "elo_loss": -11
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 11,
+    "loser": "ZXvWtaXZQRSDSj40",
+    "elo_loss": -11
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 11,
+    "loser": "diZlsknMy9TzKlzA",
+    "elo_loss": -11
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 6,
+    "loser": "APTtM4hmTdT5951C",
+    "elo_loss": -6
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 8,
+    "loser": "Wt0QKAtkNtuT9JJ9",
+    "elo_loss": -8
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 6,
+    "loser": "NlOx8yV7dCpFX6Un",
+    "elo_loss": -6
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 5,
+    "loser": "2P99CxbqAsXirau8",
+    "elo_loss": -5
+  },
+  {
+    "winner": "PeJwIIKkpWseL6Sq",
+    "elo_gain": 27,
+    "loser": "dPPgNzFEONnh814G",
+    "elo_loss": -27
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 13,
+    "loser": "CGEUBuobQQbG8Dag",
+    "elo_loss": -13
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 6,
+    "loser": "M0sgZB7QcRxo4tKs",
+    "elo_loss": -6
+  },
+  {
+    "winner": "FQeedPnz9jA5RRa6",
+    "elo_gain": 18,
+    "loser": "jJOpN3bYQcHhDzS3",
+    "elo_loss": -18
+  },
+  {
+    "winner": "FQeedPnz9jA5RRa6",
+    "elo_gain": 16,
+    "loser": "ULYW5A2s9yKfLJ1v",
+    "elo_loss": -16
+  },
+  {
+    "winner": "3wLxmlufRMt9PxRn",
+    "elo_gain": 14,
+    "loser": "diZlsknMy9TzKlzA",
+    "elo_loss": -14
+  },
+  {
+    "winner": "OIRghMchVqXcttCf",
+    "elo_gain": 16,
+    "loser": "3wLxmlufRMt9PxRn",
+    "elo_loss": -16
+  },
+  {
+    "winner": "OIRghMchVqXcttCf",
+    "elo_gain": 13,
+    "loser": "RxJ5n2K41Ai05xU2",
+    "elo_loss": -13
+  },
+  {
+    "winner": "qCNsVq6HXLO5bF39",
+    "elo_gain": 17,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -17
+  },
+  {
+    "winner": "mQeBpd9r67DXkN4L",
+    "elo_gain": 17,
+    "loser": "qCNsVq6HXLO5bF39",
+    "elo_loss": -17
+  },
+  {
+    "winner": "SSxYNgBx0IIQQH39",
+    "elo_gain": 16,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -16
+  },
+  {
+    "winner": "SZzcMaKp2S0CFfP5",
+    "elo_gain": 15,
+    "loser": "SSxYNgBx0IIQQH39",
+    "elo_loss": -15
+  },
+  {
+    "winner": "CGEUBuobQQbG8Dag",
+    "elo_gain": 19,
+    "loser": "SZzcMaKp2S0CFfP5",
+    "elo_loss": -19
+  },
+  {
+    "winner": "RxJ5n2K41Ai05xU2",
+    "elo_gain": 16,
+    "loser": "CGEUBuobQQbG8Dag",
+    "elo_loss": -16
+  },
+  {
+    "winner": "cy7lYdtu3pePSGOk",
+    "elo_gain": 17,
+    "loser": "RxJ5n2K41Ai05xU2",
+    "elo_loss": -17
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 14,
+    "loser": "cy7lYdtu3pePSGOk",
+    "elo_loss": -14
+  },
+  {
+    "winner": "qgJS4lNPuYvTnQAi",
+    "elo_gain": 17,
+    "loser": "jJOpN3bYQcHhDzS3",
+    "elo_loss": -17
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 14,
+    "loser": "qgJS4lNPuYvTnQAi",
+    "elo_loss": -14
+  },
+  {
+    "winner": "3wLxmlufRMt9PxRn",
+    "elo_gain": 20,
+    "loser": "DDUifpzehAWEKNv5",
+    "elo_loss": -20
+  },
+  {
+    "winner": "ieYAERZovDX5tZIP",
+    "elo_gain": 19,
+    "loser": "3wLxmlufRMt9PxRn",
+    "elo_loss": -19
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 15,
+    "loser": "ieYAERZovDX5tZIP",
+    "elo_loss": -15
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 16,
+    "loser": "JPSofvCmXQl0tn9K",
+    "elo_loss": -16
+  },
+  {
+    "winner": "ieYAERZovDX5tZIP",
+    "elo_gain": 17,
+    "loser": "sHqYHVVLgwTeyAR5",
+    "elo_loss": -17
+  },
+  {
+    "winner": "dRZI8ElRCa8ZXlqE",
+    "elo_gain": 17,
+    "loser": "GYhsA3VUpUK99zBN",
+    "elo_loss": -17
+  },
+  {
+    "winner": "dRZI8ElRCa8ZXlqE",
+    "elo_gain": 17,
+    "loser": "ieYAERZovDX5tZIP",
+    "elo_loss": -17
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 15,
+    "loser": "dRZI8ElRCa8ZXlqE",
+    "elo_loss": -15
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 15,
+    "loser": "PUm7AOdRuc1b5OfK",
+    "elo_loss": -15
+  },
+  {
+    "winner": "IdR0ag1Kt7eVfEez",
+    "elo_gain": 18,
+    "loser": "rTjiGmY2i5qy3tnE",
+    "elo_loss": -18
+  },
+  {
+    "winner": "jmLb3zzW8h8AFcP2",
+    "elo_gain": 19,
+    "loser": "IdR0ag1Kt7eVfEez",
+    "elo_loss": -19
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 15,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -15
+  },
+  {
+    "winner": "qCNsVq6HXLO5bF39",
+    "elo_gain": 19,
+    "loser": "EVz4L7f9IORgTaEh",
+    "elo_loss": -19
+  },
+  {
+    "winner": "EpR7buLSOAdl3UhQ",
+    "elo_gain": 15,
+    "loser": "qCNsVq6HXLO5bF39",
+    "elo_loss": -15
+  },
+  {
+    "winner": "EpR7buLSOAdl3UhQ",
+    "elo_gain": 15,
+    "loser": "SZzcMaKp2S0CFfP5",
+    "elo_loss": -15
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 17,
+    "loser": "Mb0wmA9kimCCjBLp",
+    "elo_loss": -17
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 20,
+    "loser": "8gnvRvjq2GkObL5L",
+    "elo_loss": -20
+  },
+  {
+    "winner": "64xNGsbL1tIyrfe2",
+    "elo_gain": 23,
+    "loser": "DDUifpzehAWEKNv5",
+    "elo_loss": -23
+  },
+  {
+    "winner": "ZXvWtaXZQRSDSj40",
+    "elo_gain": 19,
+    "loser": "oWSZDeiHH5sVNbKR",
+    "elo_loss": -19
+  },
+  {
+    "winner": "DFhIrm2Bv4HQz1Go",
+    "elo_gain": 16,
+    "loser": "INRhr66RVIG4G8cj",
+    "elo_loss": -16
+  },
+  {
+    "winner": "DFhIrm2Bv4HQz1Go",
+    "elo_gain": 14,
+    "loser": "tIM89xXjmaFqamQ0",
+    "elo_loss": -14
+  },
+  {
+    "winner": "I0pGSCtrZK0DbF5a",
+    "elo_gain": 18,
+    "loser": "DFhIrm2Bv4HQz1Go",
+    "elo_loss": -18
+  },
+  {
+    "winner": "4y3DA6b9VQslQHbw",
+    "elo_gain": 18,
+    "loser": "iL1jGL7cPJipQkpR",
+    "elo_loss": -18
+  },
+  {
+    "winner": "4y3DA6b9VQslQHbw",
+    "elo_gain": 16,
+    "loser": "ULYW5A2s9yKfLJ1v",
+    "elo_loss": -16
+  },
+  {
+    "winner": "4y3DA6b9VQslQHbw",
+    "elo_gain": 14,
+    "loser": "qCNsVq6HXLO5bF39",
+    "elo_loss": -14
+  },
+  {
+    "winner": "Qn9b9ADKu7r0oBzl",
+    "elo_gain": 14,
+    "loser": "4y3DA6b9VQslQHbw",
+    "elo_loss": -14
+  },
+  {
+    "winner": "5mkqMLaDV8d1FAeg",
+    "elo_gain": 17,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -17
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 15,
+    "loser": "NlOx8yV7dCpFX6Un",
+    "elo_loss": -15
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 13,
+    "loser": "EVz4L7f9IORgTaEh",
+    "elo_loss": -13
+  },
+  {
+    "winner": "5RXdhFqA8xM7qJvS",
+    "elo_gain": 22,
+    "loser": "DDUifpzehAWEKNv5",
+    "elo_loss": -22
+  },
+  {
+    "winner": "cy7lYdtu3pePSGOk",
+    "elo_gain": 16,
+    "loser": "5RXdhFqA8xM7qJvS",
+    "elo_loss": -16
+  },
+  {
+    "winner": "8gnvRvjq2GkObL5L",
+    "elo_gain": 9,
+    "loser": "cy7lYdtu3pePSGOk",
+    "elo_loss": -9
+  },
+  {
+    "winner": "DObxYD5k3q3dpp3i",
+    "elo_gain": 23,
+    "loser": "8gnvRvjq2GkObL5L",
+    "elo_loss": -23
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 17,
+    "loser": "DObxYD5k3q3dpp3i",
+    "elo_loss": -17
+  },
+  {
+    "winner": "xcY4Y0Qbo7I4Qibi",
+    "elo_gain": 16,
+    "loser": "EVz4L7f9IORgTaEh",
+    "elo_loss": -16
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 12,
+    "loser": "xcY4Y0Qbo7I4Qibi",
+    "elo_loss": -12
+  },
+  {
+    "winner": "FQeedPnz9jA5RRa6",
+    "elo_gain": 22,
+    "loser": "fyMQ4CTRfS7odnxa",
+    "elo_loss": -22
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 7,
+    "loser": "DObxYD5k3q3dpp3i",
+    "elo_loss": -7
+  },
+  {
+    "winner": "VcNNnp2l9kEmiucI",
+    "elo_gain": 21,
+    "loser": "eYnVIXWc7HRz89DT",
+    "elo_loss": -21
+  },
+  {
+    "winner": "Ow61V3RmP40Nsp1D",
+    "elo_gain": 16,
+    "loser": "VcNNnp2l9kEmiucI",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Ow61V3RmP40Nsp1D",
+    "elo_gain": 15,
+    "loser": "PDawiGizhAvtK6lG",
+    "elo_loss": -15
+  },
+  {
+    "winner": "Ow61V3RmP40Nsp1D",
+    "elo_gain": 15,
+    "loser": "JPSofvCmXQl0tn9K",
+    "elo_loss": -15
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 17,
+    "loser": "Ow61V3RmP40Nsp1D",
+    "elo_loss": -17
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 16,
+    "loser": "u7AL8DQ1aq8Gh2A8",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 14,
+    "loser": "rTjiGmY2i5qy3tnE",
+    "elo_loss": -14
+  },
+  {
+    "winner": "DKbMvL1d43UdrLry",
+    "elo_gain": 16,
+    "loser": "4NO5OrNuq5mmMmeS",
+    "elo_loss": -16
+  },
+  {
+    "winner": "i0ebD4C81lUYA9GD",
+    "elo_gain": 14,
+    "loser": "mwQJpkKN2nQHtWEG",
+    "elo_loss": -14
+  },
+  {
+    "winner": "i0ebD4C81lUYA9GD",
+    "elo_gain": 17,
+    "loser": "6aZksDm71D9LIi3g",
+    "elo_loss": -17
+  },
+  {
+    "winner": "i0ebD4C81lUYA9GD",
+    "elo_gain": 13,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -13
+  },
+  {
+    "winner": "i0ebD4C81lUYA9GD",
+    "elo_gain": 15,
+    "loser": "EpR7buLSOAdl3UhQ",
+    "elo_loss": -15
+  },
+  {
+    "winner": "i0ebD4C81lUYA9GD",
+    "elo_gain": 11,
+    "loser": "qCNsVq6HXLO5bF39",
+    "elo_loss": -11
+  },
+  {
+    "winner": "005gabmHgMbjUT39",
+    "elo_gain": 18,
+    "loser": "i0ebD4C81lUYA9GD",
+    "elo_loss": -18
+  },
+  {
+    "winner": "eJVVXwFIlInJYfmH",
+    "elo_gain": 15,
+    "loser": "EpR7buLSOAdl3UhQ",
+    "elo_loss": -15
+  },
+  {
+    "winner": "euTJVauLKxjZVdRb",
+    "elo_gain": 16,
+    "loser": "UOLjuJtH2gcH1wqY",
+    "elo_loss": -16
+  },
+  {
+    "winner": "HgUVmZs26tTiaR9b",
+    "elo_gain": 15,
+    "loser": "euTJVauLKxjZVdRb",
+    "elo_loss": -15
+  },
+  {
+    "winner": "iL1jGL7cPJipQkpR",
+    "elo_gain": 17,
+    "loser": "HgUVmZs26tTiaR9b",
+    "elo_loss": -17
+  },
+  {
+    "winner": "PDawiGizhAvtK6lG",
+    "elo_gain": 17,
+    "loser": "iL1jGL7cPJipQkpR",
+    "elo_loss": -17
+  },
+  {
+    "winner": "PDawiGizhAvtK6lG",
+    "elo_gain": 14,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -14
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 18,
+    "loser": "PDawiGizhAvtK6lG",
+    "elo_loss": -18
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 15,
+    "loser": "sHqYHVVLgwTeyAR5",
+    "elo_loss": -15
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "APTtM4hmTdT5951C",
+    "elo_loss": -5
+  },
+  {
+    "winner": "M0sgZB7QcRxo4tKs",
+    "elo_gain": 20,
+    "loser": "eJVVXwFIlInJYfmH",
+    "elo_loss": -20
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 14,
+    "loser": "aYJbjcqmwvEGD2Mo",
+    "elo_loss": -14
+  },
+  {
+    "winner": "0cvYLo6crwD0x249",
+    "elo_gain": 19,
+    "loser": "FQeedPnz9jA5RRa6",
+    "elo_loss": -19
+  },
+  {
+    "winner": "KYx93klmVHqGyHjr",
+    "elo_gain": 6,
+    "loser": "dRZI8ElRCa8ZXlqE",
+    "elo_loss": -6
+  },
+  {
+    "winner": "3wLxmlufRMt9PxRn",
+    "elo_gain": 16,
+    "loser": "DObxYD5k3q3dpp3i",
+    "elo_loss": -16
+  },
+  {
+    "winner": "oWSZDeiHH5sVNbKR",
+    "elo_gain": 13,
+    "loser": "CGEUBuobQQbG8Dag",
+    "elo_loss": -13
+  },
+  {
+    "winner": "BdQJcRpVrnrupHSM",
+    "elo_gain": 19,
+    "loser": "oWSZDeiHH5sVNbKR",
+    "elo_loss": -19
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 6,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -6
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 6,
+    "loser": "oWSZDeiHH5sVNbKR",
+    "elo_loss": -6
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 5,
+    "loser": "HgUVmZs26tTiaR9b",
+    "elo_loss": -5
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 10,
+    "loser": "lG3Cz4dbRO5AhG1C",
+    "elo_loss": -10
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 5,
+    "loser": "EVz4L7f9IORgTaEh",
+    "elo_loss": -5
+  },
+  {
+    "winner": "HY8lxad4GO7cw4Hg",
+    "elo_gain": 28,
+    "loser": "zDSkNCJWjuAciex7",
+    "elo_loss": -28
+  },
+  {
+    "winner": "1UKazLaWaLJ6j2Ag",
+    "elo_gain": 7,
+    "loser": "EVz4L7f9IORgTaEh",
+    "elo_loss": -7
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 5,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -5
+  },
+  {
+    "winner": "zGDNALOhnT57ALGA",
+    "elo_gain": 8,
+    "loser": "zYDvg26oGXalEV6a",
+    "elo_loss": -8
+  },
+  {
+    "winner": "KYx93klmVHqGyHjr",
+    "elo_gain": 7,
+    "loser": "e2vhEJIZx6IvACQK",
+    "elo_loss": -7
+  },
+  {
+    "winner": "INRhr66RVIG4G8cj",
+    "elo_gain": 16,
+    "loser": "PDawiGizhAvtK6lG",
+    "elo_loss": -16
+  },
+  {
+    "winner": "M3ziUCRTKSRKsgfd",
+    "elo_gain": 17,
+    "loser": "INRhr66RVIG4G8cj",
+    "elo_loss": -17
+  },
+  {
+    "winner": "M3ziUCRTKSRKsgfd",
+    "elo_gain": 13,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -13
+  },
+  {
+    "winner": "eJVVXwFIlInJYfmH",
+    "elo_gain": 15,
+    "loser": "M3ziUCRTKSRKsgfd",
+    "elo_loss": -15
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 14,
+    "loser": "eJVVXwFIlInJYfmH",
+    "elo_loss": -14
+  },
+  {
+    "winner": "Wt0QKAtkNtuT9JJ9",
+    "elo_gain": 19,
+    "loser": "Art0uhZaxrhgcEml",
+    "elo_loss": -19
+  },
+  {
+    "winner": "puU9eo3hEkGTnB0n",
+    "elo_gain": 19,
+    "loser": "Wt0QKAtkNtuT9JJ9",
+    "elo_loss": -19
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 15,
+    "loser": "EVz4L7f9IORgTaEh",
+    "elo_loss": -15
+  },
+  {
+    "winner": "HY8lxad4GO7cw4Hg",
+    "elo_gain": 17,
+    "loser": "PUm7AOdRuc1b5OfK",
+    "elo_loss": -17
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 16,
+    "loser": "KPnyaxQ4N72YdYCY",
+    "elo_loss": -16
+  },
+  {
+    "winner": "eJVVXwFIlInJYfmH",
+    "elo_gain": 17,
+    "loser": "eYnVIXWc7HRz89DT",
+    "elo_loss": -17
+  },
+  {
+    "winner": "cy7lYdtu3pePSGOk",
+    "elo_gain": 20,
+    "loser": "eJVVXwFIlInJYfmH",
+    "elo_loss": -20
+  },
+  {
+    "winner": "cy7lYdtu3pePSGOk",
+    "elo_gain": 16,
+    "loser": "0cvYLo6crwD0x249",
+    "elo_loss": -16
+  },
+  {
+    "winner": "cy7lYdtu3pePSGOk",
+    "elo_gain": 14,
+    "loser": "2Vs3mrs9R0cSgaGN",
+    "elo_loss": -14
+  },
+  {
+    "winner": "IdR0ag1Kt7eVfEez",
+    "elo_gain": 17,
+    "loser": "cy7lYdtu3pePSGOk",
+    "elo_loss": -17
+  },
+  {
+    "winner": "IdR0ag1Kt7eVfEez",
+    "elo_gain": 14,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -14
+  },
+  {
+    "winner": "d6kE5EvxU79sACrJ",
+    "elo_gain": 17,
+    "loser": "I0pGSCtrZK0DbF5a",
+    "elo_loss": -17
+  },
+  {
+    "winner": "1UKazLaWaLJ6j2Ag",
+    "elo_gain": 6,
+    "loser": "SSxYNgBx0IIQQH39",
+    "elo_loss": -6
+  },
+  {
+    "winner": "I0pGSCtrZK0DbF5a",
+    "elo_gain": 26,
+    "loser": "1UKazLaWaLJ6j2Ag",
+    "elo_loss": -26
+  },
+  {
+    "winner": "BdQJcRpVrnrupHSM",
+    "elo_gain": 18,
+    "loser": "I0pGSCtrZK0DbF5a",
+    "elo_loss": -18
+  },
+  {
+    "winner": "EBhIO7kkdtGTF2Nh",
+    "elo_gain": 16,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Qn9b9ADKu7r0oBzl",
+    "elo_gain": 15,
+    "loser": "3wLxmlufRMt9PxRn",
+    "elo_loss": -15
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 5,
+    "loser": "2Vs3mrs9R0cSgaGN",
+    "elo_loss": -5
+  },
+  {
+    "winner": "qgJS4lNPuYvTnQAi",
+    "elo_gain": 24,
+    "loser": "ZvUuPWyYT0NdpvQ3",
+    "elo_loss": -24
+  },
+  {
+    "winner": "eYnVIXWc7HRz89DT",
+    "elo_gain": 16,
+    "loser": "qgJS4lNPuYvTnQAi",
+    "elo_loss": -16
+  },
+  {
+    "winner": "mQeBpd9r67DXkN4L",
+    "elo_gain": 21,
+    "loser": "eYnVIXWc7HRz89DT",
+    "elo_loss": -21
+  },
+  {
+    "winner": "s2HmnRRXUm1k0R7P",
+    "elo_gain": 27,
+    "loser": "zDSkNCJWjuAciex7",
+    "elo_loss": -27
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 6,
+    "loser": "s2HmnRRXUm1k0R7P",
+    "elo_loss": -6
+  },
+  {
+    "winner": "zmmL1f7zqPRNDKTt",
+    "elo_gain": 24,
+    "loser": "8pOvfI0dgghYW6HY",
+    "elo_loss": -24
+  },
+  {
+    "winner": "OIRghMchVqXcttCf",
+    "elo_gain": 18,
+    "loser": "zmmL1f7zqPRNDKTt",
+    "elo_loss": -18
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 19,
+    "loser": "8gnvRvjq2GkObL5L",
+    "elo_loss": -19
+  },
+  {
+    "winner": "euTJVauLKxjZVdRb",
+    "elo_gain": 25,
+    "loser": "zGDNALOhnT57ALGA",
+    "elo_loss": -25
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 3,
+    "loser": "qCNsVq6HXLO5bF39",
+    "elo_loss": -3
+  },
+  {
+    "winner": "Qn9b9ADKu7r0oBzl",
+    "elo_gain": 15,
+    "loser": "G4s58Ecl3IC8HvSV",
+    "elo_loss": -15
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 16,
+    "loser": "SZzcMaKp2S0CFfP5",
+    "elo_loss": -16
+  },
+  {
+    "winner": "5eMZ9nxesfZ3itVW",
+    "elo_gain": 16,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -16
+  },
+  {
+    "winner": "ULYW5A2s9yKfLJ1v",
+    "elo_gain": 18,
+    "loser": "5eMZ9nxesfZ3itVW",
+    "elo_loss": -18
+  },
+  {
+    "winner": "5mkqMLaDV8d1FAeg",
+    "elo_gain": 13,
+    "loser": "ULYW5A2s9yKfLJ1v",
+    "elo_loss": -13
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 19,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -19
+  },
+  {
+    "winner": "Hd6JOJMNRNOJtrkv",
+    "elo_gain": 21,
+    "loser": "jJOpN3bYQcHhDzS3",
+    "elo_loss": -21
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 8,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -8
+  },
+  {
+    "winner": "I0pGSCtrZK0DbF5a",
+    "elo_gain": 22,
+    "loser": "lG3Cz4dbRO5AhG1C",
+    "elo_loss": -22
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 16,
+    "loser": "I0pGSCtrZK0DbF5a",
+    "elo_loss": -16
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 17,
+    "loser": "PUm7AOdRuc1b5OfK",
+    "elo_loss": -17
+  },
+  {
+    "winner": "Hd6JOJMNRNOJtrkv",
+    "elo_gain": 20,
+    "loser": "jJOpN3bYQcHhDzS3",
+    "elo_loss": -20
+  },
+  {
+    "winner": "puU9eo3hEkGTnB0n",
+    "elo_gain": 13,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -13
+  },
+  {
+    "winner": "5eMZ9nxesfZ3itVW",
+    "elo_gain": 19,
+    "loser": "puU9eo3hEkGTnB0n",
+    "elo_loss": -19
+  },
+  {
+    "winner": "Wt0QKAtkNtuT9JJ9",
+    "elo_gain": 14,
+    "loser": "5eMZ9nxesfZ3itVW",
+    "elo_loss": -14
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 18,
+    "loser": "Wt0QKAtkNtuT9JJ9",
+    "elo_loss": -18
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 13,
+    "loser": "0jXEt37DpQWrBvSy",
+    "elo_loss": -13
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 15,
+    "loser": "DDUifpzehAWEKNv5",
+    "elo_loss": -15
+  },
+  {
+    "winner": "sHqYHVVLgwTeyAR5",
+    "elo_gain": 24,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -24
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 10,
+    "loser": "sHqYHVVLgwTeyAR5",
+    "elo_loss": -10
+  },
+  {
+    "winner": "Wt0QKAtkNtuT9JJ9",
+    "elo_gain": 12,
+    "loser": "GYhsA3VUpUK99zBN",
+    "elo_loss": -12
+  },
+  {
+    "winner": "J0oNiG4pcpGLRUH6",
+    "elo_gain": 18,
+    "loser": "Wt0QKAtkNtuT9JJ9",
+    "elo_loss": -18
+  },
+  {
+    "winner": "puU9eo3hEkGTnB0n",
+    "elo_gain": 16,
+    "loser": "J0oNiG4pcpGLRUH6",
+    "elo_loss": -16
+  },
+  {
+    "winner": "5mkqMLaDV8d1FAeg",
+    "elo_gain": 16,
+    "loser": "puU9eo3hEkGTnB0n",
+    "elo_loss": -16
+  },
+  {
+    "winner": "FQeedPnz9jA5RRa6",
+    "elo_gain": 18,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -18
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 6,
+    "loser": "FQeedPnz9jA5RRa6",
+    "elo_loss": -6
+  },
+  {
+    "winner": "8gnvRvjq2GkObL5L",
+    "elo_gain": 10,
+    "loser": "DObxYD5k3q3dpp3i",
+    "elo_loss": -10
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 22,
+    "loser": "8gnvRvjq2GkObL5L",
+    "elo_loss": -22
+  },
+  {
+    "winner": "BdQJcRpVrnrupHSM",
+    "elo_gain": 19,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -19
+  },
+  {
+    "winner": "31cvl57OCSiA3z6D",
+    "elo_gain": 16,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -16
+  },
+  {
+    "winner": "SZzcMaKp2S0CFfP5",
+    "elo_gain": 18,
+    "loser": "31cvl57OCSiA3z6D",
+    "elo_loss": -18
+  },
+  {
+    "winner": "INRhr66RVIG4G8cj",
+    "elo_gain": 16,
+    "loser": "SZzcMaKp2S0CFfP5",
+    "elo_loss": -16
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 16,
+    "loser": "INRhr66RVIG4G8cj",
+    "elo_loss": -16
+  },
+  {
+    "winner": "NlOx8yV7dCpFX6Un",
+    "elo_gain": 18,
+    "loser": "tzWrCRPa3TxPucUj",
+    "elo_loss": -18
+  },
+  {
+    "winner": "qCNsVq6HXLO5bF39",
+    "elo_gain": 19,
+    "loser": "NlOx8yV7dCpFX6Un",
+    "elo_loss": -19
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 5,
+    "loser": "qCNsVq6HXLO5bF39",
+    "elo_loss": -5
+  },
+  {
+    "winner": "QtdY7gpe1vW9Fii8",
+    "elo_gain": 26,
+    "loser": "dPPgNzFEONnh814G",
+    "elo_loss": -26
+  },
+  {
+    "winner": "FQeedPnz9jA5RRa6",
+    "elo_gain": 16,
+    "loser": "QtdY7gpe1vW9Fii8",
+    "elo_loss": -16
+  },
+  {
+    "winner": "6aZksDm71D9LIi3g",
+    "elo_gain": 18,
+    "loser": "FQeedPnz9jA5RRa6",
+    "elo_loss": -18
+  },
+  {
+    "winner": "zGDNALOhnT57ALGA",
+    "elo_gain": 11,
+    "loser": "6aZksDm71D9LIi3g",
+    "elo_loss": -11
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 12,
+    "loser": "HY8lxad4GO7cw4Hg",
+    "elo_loss": -12
+  },
+  {
+    "winner": "ieYAERZovDX5tZIP",
+    "elo_gain": 22,
+    "loser": "Art0uhZaxrhgcEml",
+    "elo_loss": -22
+  },
+  {
+    "winner": "VcNNnp2l9kEmiucI",
+    "elo_gain": 17,
+    "loser": "ieYAERZovDX5tZIP",
+    "elo_loss": -17
+  },
+  {
+    "winner": "fyMQ4CTRfS7odnxa",
+    "elo_gain": 9,
+    "loser": "VcNNnp2l9kEmiucI",
+    "elo_loss": -9
+  },
+  {
+    "winner": "OIRghMchVqXcttCf",
+    "elo_gain": 13,
+    "loser": "YBSLlzjp2mp8b9aN",
+    "elo_loss": -13
+  },
+  {
+    "winner": "iL1jGL7cPJipQkpR",
+    "elo_gain": 16,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -16
+  },
+  {
+    "winner": "iL1jGL7cPJipQkpR",
+    "elo_gain": 15,
+    "loser": "dRZI8ElRCa8ZXlqE",
+    "elo_loss": -15
+  },
+  {
+    "winner": "iL1jGL7cPJipQkpR",
+    "elo_gain": 16,
+    "loser": "DKbMvL1d43UdrLry",
+    "elo_loss": -16
+  },
+  {
+    "winner": "iL1jGL7cPJipQkpR",
+    "elo_gain": 15,
+    "loser": "PeJwIIKkpWseL6Sq",
+    "elo_loss": -15
+  },
+  {
+    "winner": "ZXvWtaXZQRSDSj40",
+    "elo_gain": 19,
+    "loser": "iL1jGL7cPJipQkpR",
+    "elo_loss": -19
+  },
+  {
+    "winner": "3wLxmlufRMt9PxRn",
+    "elo_gain": 16,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -16
+  },
+  {
+    "winner": "3wLxmlufRMt9PxRn",
+    "elo_gain": 16,
+    "loser": "6aZksDm71D9LIi3g",
+    "elo_loss": -16
+  },
+  {
+    "winner": "DKbMvL1d43UdrLry",
+    "elo_gain": 20,
+    "loser": "Art0uhZaxrhgcEml",
+    "elo_loss": -20
+  },
+  {
+    "winner": "N6oe9MCNT6r84iuw",
+    "elo_gain": 16,
+    "loser": "DKbMvL1d43UdrLry",
+    "elo_loss": -16
+  },
+  {
+    "winner": "31cvl57OCSiA3z6D",
+    "elo_gain": 16,
+    "loser": "KPnyaxQ4N72YdYCY",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Qn9b9ADKu7r0oBzl",
+    "elo_gain": 13,
+    "loser": "31cvl57OCSiA3z6D",
+    "elo_loss": -13
+  },
+  {
+    "winner": "DKbMvL1d43UdrLry",
+    "elo_gain": 20,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -20
+  },
+  {
+    "winner": "M0sgZB7QcRxo4tKs",
+    "elo_gain": 18,
+    "loser": "IdR0ag1Kt7eVfEez",
+    "elo_loss": -18
+  },
+  {
+    "winner": "G4s58Ecl3IC8HvSV",
+    "elo_gain": 14,
+    "loser": "4NO5OrNuq5mmMmeS",
+    "elo_loss": -14
+  },
+  {
+    "winner": "G4s58Ecl3IC8HvSV",
+    "elo_gain": 16,
+    "loser": "Wt0QKAtkNtuT9JJ9",
+    "elo_loss": -16
+  },
+  {
+    "winner": "G4s58Ecl3IC8HvSV",
+    "elo_gain": 13,
+    "loser": "APTtM4hmTdT5951C",
+    "elo_loss": -13
+  },
+  {
+    "winner": "zYDvg26oGXalEV6a",
+    "elo_gain": 20,
+    "loser": "G4s58Ecl3IC8HvSV",
+    "elo_loss": -20
+  },
+  {
+    "winner": "KYx93klmVHqGyHjr",
+    "elo_gain": 6,
+    "loser": "zYDvg26oGXalEV6a",
+    "elo_loss": -6
+  },
+  {
+    "winner": "KYx93klmVHqGyHjr",
+    "elo_gain": 8,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -8
+  },
+  {
+    "winner": "PeJwIIKkpWseL6Sq",
+    "elo_gain": 16,
+    "loser": "VcNNnp2l9kEmiucI",
+    "elo_loss": -16
+  },
+  {
+    "winner": "zGDNALOhnT57ALGA",
+    "elo_gain": 9,
+    "loser": "PeJwIIKkpWseL6Sq",
+    "elo_loss": -9
+  },
+  {
+    "winner": "ieYAERZovDX5tZIP",
+    "elo_gain": 19,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -19
+  },
+  {
+    "winner": "ZXvWtaXZQRSDSj40",
+    "elo_gain": 16,
+    "loser": "ieYAERZovDX5tZIP",
+    "elo_loss": -16
+  },
+  {
+    "winner": "ZXvWtaXZQRSDSj40",
+    "elo_gain": 15,
+    "loser": "M0sgZB7QcRxo4tKs",
+    "elo_loss": -15
+  },
+  {
+    "winner": "ZXvWtaXZQRSDSj40",
+    "elo_gain": 17,
+    "loser": "Art0uhZaxrhgcEml",
+    "elo_loss": -17
+  },
+  {
+    "winner": "8gnvRvjq2GkObL5L",
+    "elo_gain": 13,
+    "loser": "ZXvWtaXZQRSDSj40",
+    "elo_loss": -13
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 11,
+    "loser": "8gnvRvjq2GkObL5L",
+    "elo_loss": -11
+  },
+  {
+    "winner": "005gabmHgMbjUT39",
+    "elo_gain": 19,
+    "loser": "lG3Cz4dbRO5AhG1C",
+    "elo_loss": -19
+  },
+  {
+    "winner": "HY8lxad4GO7cw4Hg",
+    "elo_gain": 19,
+    "loser": "005gabmHgMbjUT39",
+    "elo_loss": -19
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 6,
+    "loser": "PDawiGizhAvtK6lG",
+    "elo_loss": -6
+  },
+  {
+    "winner": "zmmL1f7zqPRNDKTt",
+    "elo_gain": 13,
+    "loser": "EpR7buLSOAdl3UhQ",
+    "elo_loss": -13
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 8,
+    "loser": "Art0uhZaxrhgcEml",
+    "elo_loss": -8
+  },
+  {
+    "winner": "zmmL1f7zqPRNDKTt",
+    "elo_gain": 14,
+    "loser": "FQeedPnz9jA5RRa6",
+    "elo_loss": -14
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 6,
+    "loser": "5eMZ9nxesfZ3itVW",
+    "elo_loss": -6
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 15,
+    "loser": "5RXdhFqA8xM7qJvS",
+    "elo_loss": -15
+  },
+  {
+    "winner": "N6oe9MCNT6r84iuw",
+    "elo_gain": 15,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -15
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 7,
+    "loser": "3pkMrGXevF2Kro6I",
+    "elo_loss": -7
+  },
+  {
+    "winner": "N6oe9MCNT6r84iuw",
+    "elo_gain": 15,
+    "loser": "puU9eo3hEkGTnB0n",
+    "elo_loss": -15
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 15,
+    "loser": "N6oe9MCNT6r84iuw",
+    "elo_loss": -15
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 7,
+    "loser": "G4s58Ecl3IC8HvSV",
+    "elo_loss": -7
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 5,
+    "loser": "2Vs3mrs9R0cSgaGN",
+    "elo_loss": -5
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 10,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -10
+  },
+  {
+    "winner": "I0pGSCtrZK0DbF5a",
+    "elo_gain": 16,
+    "loser": "5eMZ9nxesfZ3itVW",
+    "elo_loss": -16
+  },
+  {
+    "winner": "I0pGSCtrZK0DbF5a",
+    "elo_gain": 14,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -14
+  },
+  {
+    "winner": "I0pGSCtrZK0DbF5a",
+    "elo_gain": 20,
+    "loser": "8gnvRvjq2GkObL5L",
+    "elo_loss": -20
+  },
+  {
+    "winner": "I0pGSCtrZK0DbF5a",
+    "elo_gain": 13,
+    "loser": "tzWrCRPa3TxPucUj",
+    "elo_loss": -13
+  },
+  {
+    "winner": "GYhsA3VUpUK99zBN",
+    "elo_gain": 19,
+    "loser": "J0oNiG4pcpGLRUH6",
+    "elo_loss": -19
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 5,
+    "loser": "GYhsA3VUpUK99zBN",
+    "elo_loss": -5
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 5,
+    "loser": "HgUVmZs26tTiaR9b",
+    "elo_loss": -5
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 6,
+    "loser": "ZXvWtaXZQRSDSj40",
+    "elo_loss": -6
+  },
+  {
+    "winner": "diZlsknMy9TzKlzA",
+    "elo_gain": 17,
+    "loser": "aYJbjcqmwvEGD2Mo",
+    "elo_loss": -17
+  },
+  {
+    "winner": "diZlsknMy9TzKlzA",
+    "elo_gain": 19,
+    "loser": "Art0uhZaxrhgcEml",
+    "elo_loss": -19
+  },
+  {
+    "winner": "diZlsknMy9TzKlzA",
+    "elo_gain": 14,
+    "loser": "CGEUBuobQQbG8Dag",
+    "elo_loss": -14
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "J0oNiG4pcpGLRUH6",
+    "elo_loss": -5
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "HY8lxad4GO7cw4Hg",
+    "elo_loss": -5
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "dji4UHUiOGUeiyEw",
+    "elo_loss": -5
+  },
+  {
+    "winner": "euTJVauLKxjZVdRb",
+    "elo_gain": 19,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -19
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 17,
+    "loser": "euTJVauLKxjZVdRb",
+    "elo_loss": -17
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 15,
+    "loser": "64xNGsbL1tIyrfe2",
+    "elo_loss": -15
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 15,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -15
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 6,
+    "loser": "tzWrCRPa3TxPucUj",
+    "elo_loss": -6
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 28,
+    "loser": "dPPgNzFEONnh814G",
+    "elo_loss": -28
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 15,
+    "loser": "31cvl57OCSiA3z6D",
+    "elo_loss": -15
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 17,
+    "loser": "ZXvWtaXZQRSDSj40",
+    "elo_loss": -17
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 14,
+    "loser": "euTJVauLKxjZVdRb",
+    "elo_loss": -14
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 24,
+    "loser": "8pOvfI0dgghYW6HY",
+    "elo_loss": -24
+  },
+  {
+    "winner": "HY8lxad4GO7cw4Hg",
+    "elo_gain": 18,
+    "loser": "EVz4L7f9IORgTaEh",
+    "elo_loss": -18
+  },
+  {
+    "winner": "HY8lxad4GO7cw4Hg",
+    "elo_gain": 15,
+    "loser": "dji4UHUiOGUeiyEw",
+    "elo_loss": -15
+  },
+  {
+    "winner": "zYDvg26oGXalEV6a",
+    "elo_gain": 19,
+    "loser": "HY8lxad4GO7cw4Hg",
+    "elo_loss": -19
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 7,
+    "loser": "zYDvg26oGXalEV6a",
+    "elo_loss": -7
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 5,
+    "loser": "SSxYNgBx0IIQQH39",
+    "elo_loss": -5
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 6,
+    "loser": "INRhr66RVIG4G8cj",
+    "elo_loss": -6
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 5,
+    "loser": "5RXdhFqA8xM7qJvS",
+    "elo_loss": -5
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 7,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -7
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 26,
+    "loser": "zDSkNCJWjuAciex7",
+    "elo_loss": -26
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 13,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -13
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 13,
+    "loser": "PeJwIIKkpWseL6Sq",
+    "elo_loss": -13
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 19,
+    "loser": "tzWrCRPa3TxPucUj",
+    "elo_loss": -19
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 13,
+    "loser": "VcNNnp2l9kEmiucI",
+    "elo_loss": -13
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 5,
+    "loser": "VcNNnp2l9kEmiucI",
+    "elo_loss": -5
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 5,
+    "loser": "mwQJpkKN2nQHtWEG",
+    "elo_loss": -5
+  },
+  {
+    "winner": "IdR0ag1Kt7eVfEez",
+    "elo_gain": 25,
+    "loser": "zDSkNCJWjuAciex7",
+    "elo_loss": -25
+  },
+  {
+    "winner": "mwQJpkKN2nQHtWEG",
+    "elo_gain": 19,
+    "loser": "EBhIO7kkdtGTF2Nh",
+    "elo_loss": -19
+  },
+  {
+    "winner": "mwQJpkKN2nQHtWEG",
+    "elo_gain": 20,
+    "loser": "3wLxmlufRMt9PxRn",
+    "elo_loss": -20
+  },
+  {
+    "winner": "31cvl57OCSiA3z6D",
+    "elo_gain": 16,
+    "loser": "sHqYHVVLgwTeyAR5",
+    "elo_loss": -16
+  },
+  {
+    "winner": "1UKazLaWaLJ6j2Ag",
+    "elo_gain": 7,
+    "loser": "31cvl57OCSiA3z6D",
+    "elo_loss": -7
+  },
+  {
+    "winner": "RNH3Tc6WsTxqmqaV",
+    "elo_gain": 23,
+    "loser": "fyMQ4CTRfS7odnxa",
+    "elo_loss": -23
+  },
+  {
+    "winner": "DKbMvL1d43UdrLry",
+    "elo_gain": 16,
+    "loser": "RNH3Tc6WsTxqmqaV",
+    "elo_loss": -16
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 16,
+    "loser": "VcNNnp2l9kEmiucI",
+    "elo_loss": -16
+  },
+  {
+    "winner": "64xNGsbL1tIyrfe2",
+    "elo_gain": 20,
+    "loser": "DKbMvL1d43UdrLry",
+    "elo_loss": -20
+  },
+  {
+    "winner": "OIRghMchVqXcttCf",
+    "elo_gain": 13,
+    "loser": "ZXvWtaXZQRSDSj40",
+    "elo_loss": -13
+  },
+  {
+    "winner": "UOLjuJtH2gcH1wqY",
+    "elo_gain": 17,
+    "loser": "64xNGsbL1tIyrfe2",
+    "elo_loss": -17
+  },
+  {
+    "winner": "NlOx8yV7dCpFX6Un",
+    "elo_gain": 15,
+    "loser": "UOLjuJtH2gcH1wqY",
+    "elo_loss": -15
+  },
+  {
+    "winner": "zGDNALOhnT57ALGA",
+    "elo_gain": 8,
+    "loser": "NlOx8yV7dCpFX6Un",
+    "elo_loss": -8
+  },
+  {
+    "winner": "5RXdhFqA8xM7qJvS",
+    "elo_gain": 25,
+    "loser": "zGDNALOhnT57ALGA",
+    "elo_loss": -25
+  },
+  {
+    "winner": "005gabmHgMbjUT39",
+    "elo_gain": 12,
+    "loser": "5RXdhFqA8xM7qJvS",
+    "elo_loss": -12
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 6,
+    "loser": "5RXdhFqA8xM7qJvS",
+    "elo_loss": -6
+  },
+  {
+    "winner": "Ow61V3RmP40Nsp1D",
+    "elo_gain": 13,
+    "loser": "tIM89xXjmaFqamQ0",
+    "elo_loss": -13
+  },
+  {
+    "winner": "5mkqMLaDV8d1FAeg",
+    "elo_gain": 16,
+    "loser": "Ow61V3RmP40Nsp1D",
+    "elo_loss": -16
+  },
+  {
+    "winner": "dji4UHUiOGUeiyEw",
+    "elo_gain": 15,
+    "loser": "KPnyaxQ4N72YdYCY",
+    "elo_loss": -15
+  },
+  {
+    "winner": "4NO5OrNuq5mmMmeS",
+    "elo_gain": 20,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -20
+  },
+  {
+    "winner": "5RXdhFqA8xM7qJvS",
+    "elo_gain": 19,
+    "loser": "dji4UHUiOGUeiyEw",
+    "elo_loss": -19
+  },
+  {
+    "winner": "5RXdhFqA8xM7qJvS",
+    "elo_gain": 20,
+    "loser": "N6oe9MCNT6r84iuw",
+    "elo_loss": -20
+  },
+  {
+    "winner": "0cvYLo6crwD0x249",
+    "elo_gain": 16,
+    "loser": "5RXdhFqA8xM7qJvS",
+    "elo_loss": -16
+  },
+  {
+    "winner": "eYnVIXWc7HRz89DT",
+    "elo_gain": 13,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -13
+  },
+  {
+    "winner": "DObxYD5k3q3dpp3i",
+    "elo_gain": 20,
+    "loser": "eYnVIXWc7HRz89DT",
+    "elo_loss": -20
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 15,
+    "loser": "0jXEt37DpQWrBvSy",
+    "elo_loss": -15
+  },
+  {
+    "winner": "M0sgZB7QcRxo4tKs",
+    "elo_gain": 17,
+    "loser": "DKbMvL1d43UdrLry",
+    "elo_loss": -17
+  },
+  {
+    "winner": "M0sgZB7QcRxo4tKs",
+    "elo_gain": 15,
+    "loser": "INRhr66RVIG4G8cj",
+    "elo_loss": -15
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 16,
+    "loser": "M0sgZB7QcRxo4tKs",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 14,
+    "loser": "dji4UHUiOGUeiyEw",
+    "elo_loss": -14
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 20,
+    "loser": "zGDNALOhnT57ALGA",
+    "elo_loss": -20
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 13,
+    "loser": "RNH3Tc6WsTxqmqaV",
+    "elo_loss": -13
+  },
+  {
+    "winner": "DKbMvL1d43UdrLry",
+    "elo_gain": 16,
+    "loser": "jKJTEhUSG1IQRAQv",
+    "elo_loss": -16
+  },
+  {
+    "winner": "aYJbjcqmwvEGD2Mo",
+    "elo_gain": 18,
+    "loser": "ZXvWtaXZQRSDSj40",
+    "elo_loss": -18
+  },
+  {
+    "winner": "PeJwIIKkpWseL6Sq",
+    "elo_gain": 16,
+    "loser": "5RXdhFqA8xM7qJvS",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Ow61V3RmP40Nsp1D",
+    "elo_gain": 15,
+    "loser": "s2HmnRRXUm1k0R7P",
+    "elo_loss": -15
+  },
+  {
+    "winner": "puU9eo3hEkGTnB0n",
+    "elo_gain": 17,
+    "loser": "Ow61V3RmP40Nsp1D",
+    "elo_loss": -17
+  },
+  {
+    "winner": "mQeBpd9r67DXkN4L",
+    "elo_gain": 17,
+    "loser": "ZXvWtaXZQRSDSj40",
+    "elo_loss": -17
+  },
+  {
+    "winner": "BdQJcRpVrnrupHSM",
+    "elo_gain": 17,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -17
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 14,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -14
+  },
+  {
+    "winner": "DKbMvL1d43UdrLry",
+    "elo_gain": 17,
+    "loser": "PUm7AOdRuc1b5OfK",
+    "elo_loss": -17
+  },
+  {
+    "winner": "zmmL1f7zqPRNDKTt",
+    "elo_gain": 13,
+    "loser": "DKbMvL1d43UdrLry",
+    "elo_loss": -13
+  },
+  {
+    "winner": "zmmL1f7zqPRNDKTt",
+    "elo_gain": 10,
+    "loser": "2Vs3mrs9R0cSgaGN",
+    "elo_loss": -10
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 10,
+    "loser": "5eMZ9nxesfZ3itVW",
+    "elo_loss": -10
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 9,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -9
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 9,
+    "loser": "4NO5OrNuq5mmMmeS",
+    "elo_loss": -9
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 14,
+    "loser": "OIRghMchVqXcttCf",
+    "elo_loss": -14
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 21,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -21
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 12,
+    "loser": "APTtM4hmTdT5951C",
+    "elo_loss": -12
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 13,
+    "loser": "PUm7AOdRuc1b5OfK",
+    "elo_loss": -13
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 9,
+    "loser": "qCNsVq6HXLO5bF39",
+    "elo_loss": -9
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 12,
+    "loser": "diZlsknMy9TzKlzA",
+    "elo_loss": -12
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 22,
+    "loser": "dPPgNzFEONnh814G",
+    "elo_loss": -22
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 10,
+    "loser": "0cvYLo6crwD0x249",
+    "elo_loss": -10
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 20,
+    "loser": "zDSkNCJWjuAciex7",
+    "elo_loss": -20
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 7,
+    "loser": "INRhr66RVIG4G8cj",
+    "elo_loss": -7
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 12,
+    "loser": "DDUifpzehAWEKNv5",
+    "elo_loss": -12
+  },
+  {
+    "winner": "ULYW5A2s9yKfLJ1v",
+    "elo_gain": 25,
+    "loser": "rTjiGmY2i5qy3tnE",
+    "elo_loss": -25
+  },
+  {
+    "winner": "ULYW5A2s9yKfLJ1v",
+    "elo_gain": 16,
+    "loser": "31QikiI7GYoAhu9n",
+    "elo_loss": -16
+  },
+  {
+    "winner": "8gnvRvjq2GkObL5L",
+    "elo_gain": 12,
+    "loser": "ULYW5A2s9yKfLJ1v",
+    "elo_loss": -12
+  },
+  {
+    "winner": "8gnvRvjq2GkObL5L",
+    "elo_gain": 12,
+    "loser": "puU9eo3hEkGTnB0n",
+    "elo_loss": -12
+  },
+  {
+    "winner": "NlOx8yV7dCpFX6Un",
+    "elo_gain": 22,
+    "loser": "8gnvRvjq2GkObL5L",
+    "elo_loss": -22
+  },
+  {
+    "winner": "NlOx8yV7dCpFX6Un",
+    "elo_gain": 16,
+    "loser": "s2HmnRRXUm1k0R7P",
+    "elo_loss": -16
+  },
+  {
+    "winner": "NlOx8yV7dCpFX6Un",
+    "elo_gain": 16,
+    "loser": "puU9eo3hEkGTnB0n",
+    "elo_loss": -16
+  },
+  {
+    "winner": "NlOx8yV7dCpFX6Un",
+    "elo_gain": 13,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -13
+  },
+  {
+    "winner": "NlOx8yV7dCpFX6Un",
+    "elo_gain": 16,
+    "loser": "FQeedPnz9jA5RRa6",
+    "elo_loss": -16
+  },
+  {
+    "winner": "NlOx8yV7dCpFX6Un",
+    "elo_gain": 13,
+    "loser": "mwQJpkKN2nQHtWEG",
+    "elo_loss": -13
+  },
+  {
+    "winner": "NlOx8yV7dCpFX6Un",
+    "elo_gain": 14,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -14
+  },
+  {
+    "winner": "RxJ5n2K41Ai05xU2",
+    "elo_gain": 21,
+    "loser": "NlOx8yV7dCpFX6Un",
+    "elo_loss": -21
+  },
+  {
+    "winner": "RxJ5n2K41Ai05xU2",
+    "elo_gain": 16,
+    "loser": "EBhIO7kkdtGTF2Nh",
+    "elo_loss": -16
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 11,
+    "loser": "RxJ5n2K41Ai05xU2",
+    "elo_loss": -11
+  },
+  {
+    "winner": "Qn9b9ADKu7r0oBzl",
+    "elo_gain": 25,
+    "loser": "KYx93klmVHqGyHjr",
+    "elo_loss": -25
+  },
+  {
+    "winner": "dji4UHUiOGUeiyEw",
+    "elo_gain": 15,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -15
+  },
+  {
+    "winner": "dji4UHUiOGUeiyEw",
+    "elo_gain": 14,
+    "loser": "SSxYNgBx0IIQQH39",
+    "elo_loss": -14
+  },
+  {
+    "winner": "0cvYLo6crwD0x249",
+    "elo_gain": 17,
+    "loser": "dji4UHUiOGUeiyEw",
+    "elo_loss": -17
+  },
+  {
+    "winner": "0cvYLo6crwD0x249",
+    "elo_gain": 16,
+    "loser": "M0sgZB7QcRxo4tKs",
+    "elo_loss": -16
+  },
+  {
+    "winner": "64xNGsbL1tIyrfe2",
+    "elo_gain": 19,
+    "loser": "0cvYLo6crwD0x249",
+    "elo_loss": -19
+  },
+  {
+    "winner": "si7jPpizSqHnAZ6f",
+    "elo_gain": 15,
+    "loser": "64xNGsbL1tIyrfe2",
+    "elo_loss": -15
+  },
+  {
+    "winner": "QtdY7gpe1vW9Fii8",
+    "elo_gain": 15,
+    "loser": "oWSZDeiHH5sVNbKR",
+    "elo_loss": -15
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 13,
+    "loser": "sHqYHVVLgwTeyAR5",
+    "elo_loss": -13
+  },
+  {
+    "winner": "5eMZ9nxesfZ3itVW",
+    "elo_gain": 17,
+    "loser": "jKJTEhUSG1IQRAQv",
+    "elo_loss": -17
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 16,
+    "loser": "4y3DA6b9VQslQHbw",
+    "elo_loss": -16
+  },
+  {
+    "winner": "tIM89xXjmaFqamQ0",
+    "elo_gain": 16,
+    "loser": "UOLjuJtH2gcH1wqY",
+    "elo_loss": -16
+  },
+  {
+    "winner": "31cvl57OCSiA3z6D",
+    "elo_gain": 15,
+    "loser": "64xNGsbL1tIyrfe2",
+    "elo_loss": -15
+  },
+  {
+    "winner": "EYwamNK390Y4Akrb",
+    "elo_gain": 19,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -19
+  },
+  {
+    "winner": "xcY4Y0Qbo7I4Qibi",
+    "elo_gain": 14,
+    "loser": "4NO5OrNuq5mmMmeS",
+    "elo_loss": -14
+  },
+  {
+    "winner": "1UKazLaWaLJ6j2Ag",
+    "elo_gain": 9,
+    "loser": "QtdY7gpe1vW9Fii8",
+    "elo_loss": -9
+  },
+  {
+    "winner": "i0ebD4C81lUYA9GD",
+    "elo_gain": 14,
+    "loser": "DKbMvL1d43UdrLry",
+    "elo_loss": -14
+  },
+  {
+    "winner": "KTZO16NyeQUNtTzp",
+    "elo_gain": 24,
+    "loser": "ZvUuPWyYT0NdpvQ3",
+    "elo_loss": -24
+  },
+  {
+    "winner": "aYJbjcqmwvEGD2Mo",
+    "elo_gain": 18,
+    "loser": "EYwamNK390Y4Akrb",
+    "elo_loss": -18
+  },
+  {
+    "winner": "DDUifpzehAWEKNv5",
+    "elo_gain": 10,
+    "loser": "64xNGsbL1tIyrfe2",
+    "elo_loss": -10
+  },
+  {
+    "winner": "SSxYNgBx0IIQQH39",
+    "elo_gain": 16,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -16
+  },
+  {
+    "winner": "2Vs3mrs9R0cSgaGN",
+    "elo_gain": 17,
+    "loser": "SSxYNgBx0IIQQH39",
+    "elo_loss": -17
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 15,
+    "loser": "EYwamNK390Y4Akrb",
+    "elo_loss": -15
+  },
+  {
+    "winner": "JPSofvCmXQl0tn9K",
+    "elo_gain": 15,
+    "loser": "5RXdhFqA8xM7qJvS",
+    "elo_loss": -15
+  },
+  {
+    "winner": "JPSofvCmXQl0tn9K",
+    "elo_gain": 15,
+    "loser": "4y3DA6b9VQslQHbw",
+    "elo_loss": -15
+  },
+  {
+    "winner": "Mb0wmA9kimCCjBLp",
+    "elo_gain": 11,
+    "loser": "4NO5OrNuq5mmMmeS",
+    "elo_loss": -11
+  },
+  {
+    "winner": "EpR7buLSOAdl3UhQ",
+    "elo_gain": 18,
+    "loser": "iL1jGL7cPJipQkpR",
+    "elo_loss": -18
+  },
+  {
+    "winner": "ieYAERZovDX5tZIP",
+    "elo_gain": 17,
+    "loser": "EpR7buLSOAdl3UhQ",
+    "elo_loss": -17
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 7,
+    "loser": "ieYAERZovDX5tZIP",
+    "elo_loss": -7
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 17,
+    "loser": "IdR0ag1Kt7eVfEez",
+    "elo_loss": -17
+  },
+  {
+    "winner": "DFhIrm2Bv4HQz1Go",
+    "elo_gain": 18,
+    "loser": "0jXEt37DpQWrBvSy",
+    "elo_loss": -18
+  },
+  {
+    "winner": "YBSLlzjp2mp8b9aN",
+    "elo_gain": 18,
+    "loser": "DFhIrm2Bv4HQz1Go",
+    "elo_loss": -18
+  },
+  {
+    "winner": "EYwamNK390Y4Akrb",
+    "elo_gain": 16,
+    "loser": "YBSLlzjp2mp8b9aN",
+    "elo_loss": -16
+  },
+  {
+    "winner": "ZvUuPWyYT0NdpvQ3",
+    "elo_gain": 10,
+    "loser": "EYwamNK390Y4Akrb",
+    "elo_loss": -10
+  },
+  {
+    "winner": "ZvUuPWyYT0NdpvQ3",
+    "elo_gain": 8,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -8
+  },
+  {
+    "winner": "BdQJcRpVrnrupHSM",
+    "elo_gain": 20,
+    "loser": "jJOpN3bYQcHhDzS3",
+    "elo_loss": -20
+  },
+  {
+    "winner": "PDawiGizhAvtK6lG",
+    "elo_gain": 17,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -17
+  },
+  {
+    "winner": "QtdY7gpe1vW9Fii8",
+    "elo_gain": 16,
+    "loser": "N6oe9MCNT6r84iuw",
+    "elo_loss": -16
+  },
+  {
+    "winner": "QtdY7gpe1vW9Fii8",
+    "elo_gain": 15,
+    "loser": "G4s58Ecl3IC8HvSV",
+    "elo_loss": -15
+  },
+  {
+    "winner": "s2HmnRRXUm1k0R7P",
+    "elo_gain": 20,
+    "loser": "QtdY7gpe1vW9Fii8",
+    "elo_loss": -20
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 17,
+    "loser": "s2HmnRRXUm1k0R7P",
+    "elo_loss": -17
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 17,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -17
+  },
+  {
+    "winner": "qCNsVq6HXLO5bF39",
+    "elo_gain": 18,
+    "loser": "APTtM4hmTdT5951C",
+    "elo_loss": -18
+  },
+  {
+    "winner": "EBhIO7kkdtGTF2Nh",
+    "elo_gain": 15,
+    "loser": "qCNsVq6HXLO5bF39",
+    "elo_loss": -15
+  },
+  {
+    "winner": "EBhIO7kkdtGTF2Nh",
+    "elo_gain": 15,
+    "loser": "GYhsA3VUpUK99zBN",
+    "elo_loss": -15
+  },
+  {
+    "winner": "5mkqMLaDV8d1FAeg",
+    "elo_gain": 15,
+    "loser": "EBhIO7kkdtGTF2Nh",
+    "elo_loss": -15
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 13,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -13
+  },
+  {
+    "winner": "SZzcMaKp2S0CFfP5",
+    "elo_gain": 15,
+    "loser": "SSxYNgBx0IIQQH39",
+    "elo_loss": -15
+  },
+  {
+    "winner": "e2vhEJIZx6IvACQK",
+    "elo_gain": 15,
+    "loser": "SZzcMaKp2S0CFfP5",
+    "elo_loss": -15
+  },
+  {
+    "winner": "sHqYHVVLgwTeyAR5",
+    "elo_gain": 20,
+    "loser": "e2vhEJIZx6IvACQK",
+    "elo_loss": -20
+  },
+  {
+    "winner": "iL1jGL7cPJipQkpR",
+    "elo_gain": 14,
+    "loser": "sHqYHVVLgwTeyAR5",
+    "elo_loss": -14
+  },
+  {
+    "winner": "CGEUBuobQQbG8Dag",
+    "elo_gain": 16,
+    "loser": "UOLjuJtH2gcH1wqY",
+    "elo_loss": -16
+  },
+  {
+    "winner": "CGEUBuobQQbG8Dag",
+    "elo_gain": 17,
+    "loser": "KPnyaxQ4N72YdYCY",
+    "elo_loss": -17
+  },
+  {
+    "winner": "HY8lxad4GO7cw4Hg",
+    "elo_gain": 13,
+    "loser": "CGEUBuobQQbG8Dag",
+    "elo_loss": -13
+  },
+  {
+    "winner": "BdQJcRpVrnrupHSM",
+    "elo_gain": 20,
+    "loser": "HY8lxad4GO7cw4Hg",
+    "elo_loss": -20
+  },
+  {
+    "winner": "Qn9b9ADKu7r0oBzl",
+    "elo_gain": 14,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -14
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 12,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -12
+  },
+  {
+    "winner": "I0pGSCtrZK0DbF5a",
+    "elo_gain": 20,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -20
+  },
+  {
+    "winner": "HY8lxad4GO7cw4Hg",
+    "elo_gain": 19,
+    "loser": "I0pGSCtrZK0DbF5a",
+    "elo_loss": -19
+  },
+  {
+    "winner": "HY8lxad4GO7cw4Hg",
+    "elo_gain": 14,
+    "loser": "M3ziUCRTKSRKsgfd",
+    "elo_loss": -14
+  },
+  {
+    "winner": "dRZI8ElRCa8ZXlqE",
+    "elo_gain": 21,
+    "loser": "HY8lxad4GO7cw4Hg",
+    "elo_loss": -21
+  },
+  {
+    "winner": "dRZI8ElRCa8ZXlqE",
+    "elo_gain": 15,
+    "loser": "KPnyaxQ4N72YdYCY",
+    "elo_loss": -15
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 17,
+    "loser": "dRZI8ElRCa8ZXlqE",
+    "elo_loss": -17
+  },
+  {
+    "winner": "O1rBp7yEzBz23ATA",
+    "elo_gain": 16,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -16
+  },
+  {
+    "winner": "3wLxmlufRMt9PxRn",
+    "elo_gain": 15,
+    "loser": "O1rBp7yEzBz23ATA",
+    "elo_loss": -15
+  },
+  {
+    "winner": "RxJ5n2K41Ai05xU2",
+    "elo_gain": 18,
+    "loser": "3wLxmlufRMt9PxRn",
+    "elo_loss": -18
+  },
+  {
+    "winner": "KTZO16NyeQUNtTzp",
+    "elo_gain": 16,
+    "loser": "RxJ5n2K41Ai05xU2",
+    "elo_loss": -16
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 10,
+    "loser": "M3ziUCRTKSRKsgfd",
+    "elo_loss": -10
+  },
+  {
+    "winner": "dji4UHUiOGUeiyEw",
+    "elo_gain": 23,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -23
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 7,
+    "loser": "dji4UHUiOGUeiyEw",
+    "elo_loss": -7
+  },
+  {
+    "winner": "3pkMrGXevF2Kro6I",
+    "elo_gain": 13,
+    "loser": "VcNNnp2l9kEmiucI",
+    "elo_loss": -13
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 7,
+    "loser": "3pkMrGXevF2Kro6I",
+    "elo_loss": -7
+  },
+  {
+    "winner": "64xNGsbL1tIyrfe2",
+    "elo_gain": 19,
+    "loser": "puU9eo3hEkGTnB0n",
+    "elo_loss": -19
+  },
+  {
+    "winner": "BdQJcRpVrnrupHSM",
+    "elo_gain": 15,
+    "loser": "64xNGsbL1tIyrfe2",
+    "elo_loss": -15
+  },
+  {
+    "winner": "mQeBpd9r67DXkN4L",
+    "elo_gain": 18,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -18
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 18,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -18
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 18,
+    "loser": "31cvl57OCSiA3z6D",
+    "elo_loss": -18
+  },
+  {
+    "winner": "EpR7buLSOAdl3UhQ",
+    "elo_gain": 15,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -15
+  },
+  {
+    "winner": "EpR7buLSOAdl3UhQ",
+    "elo_gain": 14,
+    "loser": "2Vs3mrs9R0cSgaGN",
+    "elo_loss": -14
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "EpR7buLSOAdl3UhQ",
+    "elo_loss": -5
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 7,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -7
+  },
+  {
+    "winner": "DObxYD5k3q3dpp3i",
+    "elo_gain": 23,
+    "loser": "rTjiGmY2i5qy3tnE",
+    "elo_loss": -23
+  },
+  {
+    "winner": "sHqYHVVLgwTeyAR5",
+    "elo_gain": 19,
+    "loser": "DObxYD5k3q3dpp3i",
+    "elo_loss": -19
+  },
+  {
+    "winner": "sHqYHVVLgwTeyAR5",
+    "elo_gain": 18,
+    "loser": "6aZksDm71D9LIi3g",
+    "elo_loss": -18
+  },
+  {
+    "winner": "8gnvRvjq2GkObL5L",
+    "elo_gain": 11,
+    "loser": "sHqYHVVLgwTeyAR5",
+    "elo_loss": -11
+  },
+  {
+    "winner": "0cvYLo6crwD0x249",
+    "elo_gain": 21,
+    "loser": "8gnvRvjq2GkObL5L",
+    "elo_loss": -21
+  },
+  {
+    "winner": "VcNNnp2l9kEmiucI",
+    "elo_gain": 21,
+    "loser": "0cvYLo6crwD0x249",
+    "elo_loss": -21
+  },
+  {
+    "winner": "VcNNnp2l9kEmiucI",
+    "elo_gain": 18,
+    "loser": "d6kE5EvxU79sACrJ",
+    "elo_loss": -18
+  },
+  {
+    "winner": "OIRghMchVqXcttCf",
+    "elo_gain": 11,
+    "loser": "VcNNnp2l9kEmiucI",
+    "elo_loss": -11
+  },
+  {
+    "winner": "O1rBp7yEzBz23ATA",
+    "elo_gain": 21,
+    "loser": "OIRghMchVqXcttCf",
+    "elo_loss": -21
+  },
+  {
+    "winner": "iL1jGL7cPJipQkpR",
+    "elo_gain": 15,
+    "loser": "O1rBp7yEzBz23ATA",
+    "elo_loss": -15
+  },
+  {
+    "winner": "eJVVXwFIlInJYfmH",
+    "elo_gain": 18,
+    "loser": "005gabmHgMbjUT39",
+    "elo_loss": -18
+  },
+  {
+    "winner": "Ow61V3RmP40Nsp1D",
+    "elo_gain": 13,
+    "loser": "euTJVauLKxjZVdRb",
+    "elo_loss": -13
+  },
+  {
+    "winner": "puU9eo3hEkGTnB0n",
+    "elo_gain": 20,
+    "loser": "Ow61V3RmP40Nsp1D",
+    "elo_loss": -20
+  },
+  {
+    "winner": "5mkqMLaDV8d1FAeg",
+    "elo_gain": 15,
+    "loser": "puU9eo3hEkGTnB0n",
+    "elo_loss": -15
+  },
+  {
+    "winner": "5mkqMLaDV8d1FAeg",
+    "elo_gain": 15,
+    "loser": "DKbMvL1d43UdrLry",
+    "elo_loss": -15
+  },
+  {
+    "winner": "ZvUuPWyYT0NdpvQ3",
+    "elo_gain": 10,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -10
+  },
+  {
+    "winner": "G4s58Ecl3IC8HvSV",
+    "elo_gain": 15,
+    "loser": "0cvYLo6crwD0x249",
+    "elo_loss": -15
+  },
+  {
+    "winner": "G4s58Ecl3IC8HvSV",
+    "elo_gain": 16,
+    "loser": "eYnVIXWc7HRz89DT",
+    "elo_loss": -16
+  },
+  {
+    "winner": "G4s58Ecl3IC8HvSV",
+    "elo_gain": 14,
+    "loser": "ULYW5A2s9yKfLJ1v",
+    "elo_loss": -14
+  },
+  {
+    "winner": "I0pGSCtrZK0DbF5a",
+    "elo_gain": 11,
+    "loser": "tIM89xXjmaFqamQ0",
+    "elo_loss": -11
+  },
+  {
+    "winner": "Hd6JOJMNRNOJtrkv",
+    "elo_gain": 22,
+    "loser": "I0pGSCtrZK0DbF5a",
+    "elo_loss": -22
+  },
+  {
+    "winner": "Hd6JOJMNRNOJtrkv",
+    "elo_gain": 23,
+    "loser": "zGDNALOhnT57ALGA",
+    "elo_loss": -23
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 4,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -4
+  },
+  {
+    "winner": "e2vhEJIZx6IvACQK",
+    "elo_gain": 14,
+    "loser": "mwQJpkKN2nQHtWEG",
+    "elo_loss": -14
+  },
+  {
+    "winner": "HY8lxad4GO7cw4Hg",
+    "elo_gain": 15,
+    "loser": "e2vhEJIZx6IvACQK",
+    "elo_loss": -15
+  },
+  {
+    "winner": "HY8lxad4GO7cw4Hg",
+    "elo_gain": 15,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -15
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 14,
+    "loser": "HY8lxad4GO7cw4Hg",
+    "elo_loss": -14
+  },
+  {
+    "winner": "IdR0ag1Kt7eVfEez",
+    "elo_gain": 21,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -21
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 9,
+    "loser": "IdR0ag1Kt7eVfEez",
+    "elo_loss": -9
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 8,
+    "loser": "N6oe9MCNT6r84iuw",
+    "elo_loss": -8
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 20,
+    "loser": "zDSkNCJWjuAciex7",
+    "elo_loss": -20
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 8,
+    "loser": "VcNNnp2l9kEmiucI",
+    "elo_loss": -8
+  },
+  {
+    "winner": "i0ebD4C81lUYA9GD",
+    "elo_gain": 20,
+    "loser": "lG3Cz4dbRO5AhG1C",
+    "elo_loss": -20
+  },
+  {
+    "winner": "NlOx8yV7dCpFX6Un",
+    "elo_gain": 15,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -15
+  },
+  {
+    "winner": "zGDNALOhnT57ALGA",
+    "elo_gain": 13,
+    "loser": "iL1jGL7cPJipQkpR",
+    "elo_loss": -13
+  },
+  {
+    "winner": "005gabmHgMbjUT39",
+    "elo_gain": 16,
+    "loser": "I0pGSCtrZK0DbF5a",
+    "elo_loss": -16
+  },
+  {
+    "winner": "jmLb3zzW8h8AFcP2",
+    "elo_gain": 23,
+    "loser": "i0ebD4C81lUYA9GD",
+    "elo_loss": -23
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 16,
+    "loser": "Wt0QKAtkNtuT9JJ9",
+    "elo_loss": -16
+  },
+  {
+    "winner": "RNH3Tc6WsTxqmqaV",
+    "elo_gain": 14,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -14
+  },
+  {
+    "winner": "PDawiGizhAvtK6lG",
+    "elo_gain": 17,
+    "loser": "RNH3Tc6WsTxqmqaV",
+    "elo_loss": -17
+  },
+  {
+    "winner": "PDawiGizhAvtK6lG",
+    "elo_gain": 12,
+    "loser": "UOLjuJtH2gcH1wqY",
+    "elo_loss": -12
+  },
+  {
+    "winner": "PDawiGizhAvtK6lG",
+    "elo_gain": 15,
+    "loser": "ieYAERZovDX5tZIP",
+    "elo_loss": -15
+  },
+  {
+    "winner": "PDawiGizhAvtK6lG",
+    "elo_gain": 12,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -12
+  },
+  {
+    "winner": "PDawiGizhAvtK6lG",
+    "elo_gain": 12,
+    "loser": "2Vs3mrs9R0cSgaGN",
+    "elo_loss": -12
+  },
+  {
+    "winner": "PDawiGizhAvtK6lG",
+    "elo_gain": 13,
+    "loser": "EBhIO7kkdtGTF2Nh",
+    "elo_loss": -13
+  },
+  {
+    "winner": "PDawiGizhAvtK6lG",
+    "elo_gain": 13,
+    "loser": "PUm7AOdRuc1b5OfK",
+    "elo_loss": -13
+  },
+  {
+    "winner": "PDawiGizhAvtK6lG",
+    "elo_gain": 18,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -18
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 19,
+    "loser": "PDawiGizhAvtK6lG",
+    "elo_loss": -19
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 12,
+    "loser": "5RXdhFqA8xM7qJvS",
+    "elo_loss": -12
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 12,
+    "loser": "INRhr66RVIG4G8cj",
+    "elo_loss": -12
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 10,
+    "loser": "KPnyaxQ4N72YdYCY",
+    "elo_loss": -10
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 11,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -11
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 12,
+    "loser": "DObxYD5k3q3dpp3i",
+    "elo_loss": -12
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 11,
+    "loser": "zYDvg26oGXalEV6a",
+    "elo_loss": -11
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 11,
+    "loser": "DFhIrm2Bv4HQz1Go",
+    "elo_loss": -11
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 12,
+    "loser": "xcY4Y0Qbo7I4Qibi",
+    "elo_loss": -12
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 11,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -11
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 7,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -7
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 8,
+    "loser": "euTJVauLKxjZVdRb",
+    "elo_loss": -8
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 11,
+    "loser": "HY8lxad4GO7cw4Hg",
+    "elo_loss": -11
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 8,
+    "loser": "sHqYHVVLgwTeyAR5",
+    "elo_loss": -8
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 7,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -7
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 8,
+    "loser": "J0oNiG4pcpGLRUH6",
+    "elo_loss": -8
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 19,
+    "loser": "dPPgNzFEONnh814G",
+    "elo_loss": -19
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 8,
+    "loser": "xcY4Y0Qbo7I4Qibi",
+    "elo_loss": -8
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 5,
+    "loser": "SSxYNgBx0IIQQH39",
+    "elo_loss": -5
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 7,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -7
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 6,
+    "loser": "M3ziUCRTKSRKsgfd",
+    "elo_loss": -6
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 12,
+    "loser": "fyMQ4CTRfS7odnxa",
+    "elo_loss": -12
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 5,
+    "loser": "4NO5OrNuq5mmMmeS",
+    "elo_loss": -5
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 5,
+    "loser": "mwQJpkKN2nQHtWEG",
+    "elo_loss": -5
+  },
+  {
+    "winner": "0jXEt37DpQWrBvSy",
+    "elo_gain": 6,
+    "loser": "RNH3Tc6WsTxqmqaV",
+    "elo_loss": -6
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 7,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -7
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 6,
+    "loser": "zYDvg26oGXalEV6a",
+    "elo_loss": -6
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 6,
+    "loser": "diZlsknMy9TzKlzA",
+    "elo_loss": -6
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 7,
+    "loser": "I0pGSCtrZK0DbF5a",
+    "elo_loss": -7
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 5,
+    "loser": "ZXvWtaXZQRSDSj40",
+    "elo_loss": -5
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 4,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -4
+  },
+  {
+    "winner": "DKbMvL1d43UdrLry",
+    "elo_gain": 27,
+    "loser": "dPPgNzFEONnh814G",
+    "elo_loss": -27
+  },
+  {
+    "winner": "DKbMvL1d43UdrLry",
+    "elo_gain": 18,
+    "loser": "i0ebD4C81lUYA9GD",
+    "elo_loss": -18
+  },
+  {
+    "winner": "KPnyaxQ4N72YdYCY",
+    "elo_gain": 21,
+    "loser": "DKbMvL1d43UdrLry",
+    "elo_loss": -21
+  },
+  {
+    "winner": "KPnyaxQ4N72YdYCY",
+    "elo_gain": 19,
+    "loser": "aYJbjcqmwvEGD2Mo",
+    "elo_loss": -19
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 9,
+    "loser": "GYhsA3VUpUK99zBN",
+    "elo_loss": -9
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 7,
+    "loser": "Art0uhZaxrhgcEml",
+    "elo_loss": -7
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 4,
+    "loser": "EYwamNK390Y4Akrb",
+    "elo_loss": -4
+  },
+  {
+    "winner": "cy7lYdtu3pePSGOk",
+    "elo_gain": 21,
+    "loser": "lG3Cz4dbRO5AhG1C",
+    "elo_loss": -21
+  },
+  {
+    "winner": "IdR0ag1Kt7eVfEez",
+    "elo_gain": 16,
+    "loser": "cy7lYdtu3pePSGOk",
+    "elo_loss": -16
+  },
+  {
+    "winner": "64xNGsbL1tIyrfe2",
+    "elo_gain": 17,
+    "loser": "4y3DA6b9VQslQHbw",
+    "elo_loss": -17
+  },
+  {
+    "winner": "cy7lYdtu3pePSGOk",
+    "elo_gain": 13,
+    "loser": "64xNGsbL1tIyrfe2",
+    "elo_loss": -13
+  },
+  {
+    "winner": "HgUVmZs26tTiaR9b",
+    "elo_gain": 18,
+    "loser": "cy7lYdtu3pePSGOk",
+    "elo_loss": -18
+  },
+  {
+    "winner": "5mkqMLaDV8d1FAeg",
+    "elo_gain": 15,
+    "loser": "HgUVmZs26tTiaR9b",
+    "elo_loss": -15
+  },
+  {
+    "winner": "puU9eo3hEkGTnB0n",
+    "elo_gain": 19,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -19
+  },
+  {
+    "winner": "puU9eo3hEkGTnB0n",
+    "elo_gain": 12,
+    "loser": "UOLjuJtH2gcH1wqY",
+    "elo_loss": -12
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 8,
+    "loser": "puU9eo3hEkGTnB0n",
+    "elo_loss": -8
+  },
+  {
+    "winner": "ieYAERZovDX5tZIP",
+    "elo_gain": 17,
+    "loser": "dji4UHUiOGUeiyEw",
+    "elo_loss": -17
+  },
+  {
+    "winner": "zGDNALOhnT57ALGA",
+    "elo_gain": 10,
+    "loser": "puU9eo3hEkGTnB0n",
+    "elo_loss": -10
+  },
+  {
+    "winner": "mQeBpd9r67DXkN4L",
+    "elo_gain": 18,
+    "loser": "O1rBp7yEzBz23ATA",
+    "elo_loss": -18
+  },
+  {
+    "winner": "3pkMrGXevF2Kro6I",
+    "elo_gain": 13,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -13
+  },
+  {
+    "winner": "si7jPpizSqHnAZ6f",
+    "elo_gain": 13,
+    "loser": "4y3DA6b9VQslQHbw",
+    "elo_loss": -13
+  },
+  {
+    "winner": "si7jPpizSqHnAZ6f",
+    "elo_gain": 13,
+    "loser": "KPnyaxQ4N72YdYCY",
+    "elo_loss": -13
+  },
+  {
+    "winner": "jmLb3zzW8h8AFcP2",
+    "elo_gain": 21,
+    "loser": "si7jPpizSqHnAZ6f",
+    "elo_loss": -21
+  },
+  {
+    "winner": "jmLb3zzW8h8AFcP2",
+    "elo_gain": 20,
+    "loser": "3pkMrGXevF2Kro6I",
+    "elo_loss": -20
+  },
+  {
+    "winner": "IdR0ag1Kt7eVfEez",
+    "elo_gain": 12,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -12
+  },
+  {
+    "winner": "EBhIO7kkdtGTF2Nh",
+    "elo_gain": 16,
+    "loser": "O1rBp7yEzBz23ATA",
+    "elo_loss": -16
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 11,
+    "loser": "EBhIO7kkdtGTF2Nh",
+    "elo_loss": -11
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 12,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -12
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 12,
+    "loser": "jJOpN3bYQcHhDzS3",
+    "elo_loss": -12
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 11,
+    "loser": "EpR7buLSOAdl3UhQ",
+    "elo_loss": -11
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 8,
+    "loser": "mwQJpkKN2nQHtWEG",
+    "elo_loss": -8
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 9,
+    "loser": "PUm7AOdRuc1b5OfK",
+    "elo_loss": -9
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 9,
+    "loser": "M0sgZB7QcRxo4tKs",
+    "elo_loss": -9
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 17,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -17
+  },
+  {
+    "winner": "0cvYLo6crwD0x249",
+    "elo_gain": 15,
+    "loser": "HgUVmZs26tTiaR9b",
+    "elo_loss": -15
+  },
+  {
+    "winner": "2Vs3mrs9R0cSgaGN",
+    "elo_gain": 19,
+    "loser": "0cvYLo6crwD0x249",
+    "elo_loss": -19
+  },
+  {
+    "winner": "2Vs3mrs9R0cSgaGN",
+    "elo_gain": 19,
+    "loser": "KTZO16NyeQUNtTzp",
+    "elo_loss": -19
+  },
+  {
+    "winner": "fyMQ4CTRfS7odnxa",
+    "elo_gain": 9,
+    "loser": "2Vs3mrs9R0cSgaGN",
+    "elo_loss": -9
+  },
+  {
+    "winner": "31cvl57OCSiA3z6D",
+    "elo_gain": 23,
+    "loser": "fyMQ4CTRfS7odnxa",
+    "elo_loss": -23
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 18,
+    "loser": "jJOpN3bYQcHhDzS3",
+    "elo_loss": -18
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 4,
+    "loser": "PUm7AOdRuc1b5OfK",
+    "elo_loss": -4
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 4,
+    "loser": "dji4UHUiOGUeiyEw",
+    "elo_loss": -4
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 3,
+    "loser": "APTtM4hmTdT5951C",
+    "elo_loss": -3
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 3,
+    "loser": "dji4UHUiOGUeiyEw",
+    "elo_loss": -3
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 4,
+    "loser": "i0ebD4C81lUYA9GD",
+    "elo_loss": -4
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 3,
+    "loser": "KPnyaxQ4N72YdYCY",
+    "elo_loss": -3
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 3,
+    "loser": "EpR7buLSOAdl3UhQ",
+    "elo_loss": -3
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 3,
+    "loser": "euTJVauLKxjZVdRb",
+    "elo_loss": -3
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 3,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -3
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 3,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -3
+  },
+  {
+    "winner": "sHqYHVVLgwTeyAR5",
+    "elo_gain": 29,
+    "loser": "wqBvlF9VzCZfW9Pv",
+    "elo_loss": -29
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 9,
+    "loser": "sHqYHVVLgwTeyAR5",
+    "elo_loss": -9
+  },
+  {
+    "winner": "KTZO16NyeQUNtTzp",
+    "elo_gain": 13,
+    "loser": "mwQJpkKN2nQHtWEG",
+    "elo_loss": -13
+  },
+  {
+    "winner": "iL1jGL7cPJipQkpR",
+    "elo_gain": 14,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -14
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 19,
+    "loser": "u7AL8DQ1aq8Gh2A8",
+    "elo_loss": -19
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 23,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -23
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 13,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -13
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 23,
+    "loser": "rTjiGmY2i5qy3tnE",
+    "elo_loss": -23
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 11,
+    "loser": "64xNGsbL1tIyrfe2",
+    "elo_loss": -11
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 16,
+    "loser": "IdR0ag1Kt7eVfEez",
+    "elo_loss": -16
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 12,
+    "loser": "ZXvWtaXZQRSDSj40",
+    "elo_loss": -12
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 14,
+    "loser": "I0pGSCtrZK0DbF5a",
+    "elo_loss": -14
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 9,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -9
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 15,
+    "loser": "PDawiGizhAvtK6lG",
+    "elo_loss": -15
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 13,
+    "loser": "PDawiGizhAvtK6lG",
+    "elo_loss": -13
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 11,
+    "loser": "FQeedPnz9jA5RRa6",
+    "elo_loss": -11
+  },
+  {
+    "winner": "APTtM4hmTdT5951C",
+    "elo_gain": 13,
+    "loser": "Mb0wmA9kimCCjBLp",
+    "elo_loss": -13
+  },
+  {
+    "winner": "eYnVIXWc7HRz89DT",
+    "elo_gain": 22,
+    "loser": "APTtM4hmTdT5951C",
+    "elo_loss": -22
+  },
+  {
+    "winner": "3pkMrGXevF2Kro6I",
+    "elo_gain": 17,
+    "loser": "eYnVIXWc7HRz89DT",
+    "elo_loss": -17
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 8,
+    "loser": "3pkMrGXevF2Kro6I",
+    "elo_loss": -8
+  },
+  {
+    "winner": "zGDNALOhnT57ALGA",
+    "elo_gain": 8,
+    "loser": "KPnyaxQ4N72YdYCY",
+    "elo_loss": -8
+  },
+  {
+    "winner": "zGDNALOhnT57ALGA",
+    "elo_gain": 20,
+    "loser": "KYx93klmVHqGyHjr",
+    "elo_loss": -20
+  },
+  {
+    "winner": "zGDNALOhnT57ALGA",
+    "elo_gain": 21,
+    "loser": "0jXEt37DpQWrBvSy",
+    "elo_loss": -21
+  },
+  {
+    "winner": "zGDNALOhnT57ALGA",
+    "elo_gain": 8,
+    "loser": "YBSLlzjp2mp8b9aN",
+    "elo_loss": -8
+  },
+  {
+    "winner": "zGDNALOhnT57ALGA",
+    "elo_gain": 7,
+    "loser": "HgUVmZs26tTiaR9b",
+    "elo_loss": -7
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 24,
+    "loser": "zGDNALOhnT57ALGA",
+    "elo_loss": -24
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 16,
+    "loser": "FQeedPnz9jA5RRa6",
+    "elo_loss": -16
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 15,
+    "loser": "I0pGSCtrZK0DbF5a",
+    "elo_loss": -15
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 11,
+    "loser": "INRhr66RVIG4G8cj",
+    "elo_loss": -11
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 13,
+    "loser": "EYwamNK390Y4Akrb",
+    "elo_loss": -13
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 13,
+    "loser": "ULYW5A2s9yKfLJ1v",
+    "elo_loss": -13
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 18,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -18
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 11,
+    "loser": "diZlsknMy9TzKlzA",
+    "elo_loss": -11
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 10,
+    "loser": "sHqYHVVLgwTeyAR5",
+    "elo_loss": -10
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 10,
+    "loser": "6aZksDm71D9LIi3g",
+    "elo_loss": -10
+  },
+  {
+    "winner": "NlOx8yV7dCpFX6Un",
+    "elo_gain": 9,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -9
+  },
+  {
+    "winner": "31cvl57OCSiA3z6D",
+    "elo_gain": 20,
+    "loser": "NlOx8yV7dCpFX6Un",
+    "elo_loss": -20
+  },
+  {
+    "winner": "31cvl57OCSiA3z6D",
+    "elo_gain": 16,
+    "loser": "Ow61V3RmP40Nsp1D",
+    "elo_loss": -16
+  },
+  {
+    "winner": "31cvl57OCSiA3z6D",
+    "elo_gain": 14,
+    "loser": "DObxYD5k3q3dpp3i",
+    "elo_loss": -14
+  },
+  {
+    "winner": "31cvl57OCSiA3z6D",
+    "elo_gain": 13,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -13
+  },
+  {
+    "winner": "31cvl57OCSiA3z6D",
+    "elo_gain": 14,
+    "loser": "Ow61V3RmP40Nsp1D",
+    "elo_loss": -14
+  },
+  {
+    "winner": "31cvl57OCSiA3z6D",
+    "elo_gain": 10,
+    "loser": "KPnyaxQ4N72YdYCY",
+    "elo_loss": -10
+  },
+  {
+    "winner": "fyMQ4CTRfS7odnxa",
+    "elo_gain": 15,
+    "loser": "31cvl57OCSiA3z6D",
+    "elo_loss": -15
+  },
+  {
+    "winner": "fyMQ4CTRfS7odnxa",
+    "elo_gain": 8,
+    "loser": "VcNNnp2l9kEmiucI",
+    "elo_loss": -8
+  },
+  {
+    "winner": "fyMQ4CTRfS7odnxa",
+    "elo_gain": 8,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -8
+  },
+  {
+    "winner": "fyMQ4CTRfS7odnxa",
+    "elo_gain": 9,
+    "loser": "EBhIO7kkdtGTF2Nh",
+    "elo_loss": -9
+  },
+  {
+    "winner": "fyMQ4CTRfS7odnxa",
+    "elo_gain": 18,
+    "loser": "KYx93klmVHqGyHjr",
+    "elo_loss": -18
+  },
+  {
+    "winner": "fyMQ4CTRfS7odnxa",
+    "elo_gain": 11,
+    "loser": "31cvl57OCSiA3z6D",
+    "elo_loss": -11
+  },
+  {
+    "winner": "HY8lxad4GO7cw4Hg",
+    "elo_gain": 13,
+    "loser": "dRZI8ElRCa8ZXlqE",
+    "elo_loss": -13
+  },
+  {
+    "winner": "HY8lxad4GO7cw4Hg",
+    "elo_gain": 12,
+    "loser": "2Vs3mrs9R0cSgaGN",
+    "elo_loss": -12
+  },
+  {
+    "winner": "HY8lxad4GO7cw4Hg",
+    "elo_gain": 10,
+    "loser": "SSxYNgBx0IIQQH39",
+    "elo_loss": -10
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 10,
+    "loser": "HY8lxad4GO7cw4Hg",
+    "elo_loss": -10
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 6,
+    "loser": "zYDvg26oGXalEV6a",
+    "elo_loss": -6
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 10,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -10
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 6,
+    "loser": "0cvYLo6crwD0x249",
+    "elo_loss": -6
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 7,
+    "loser": "iL1jGL7cPJipQkpR",
+    "elo_loss": -7
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 5,
+    "loser": "CGEUBuobQQbG8Dag",
+    "elo_loss": -5
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 6,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -6
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 6,
+    "loser": "3pkMrGXevF2Kro6I",
+    "elo_loss": -6
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 5,
+    "loser": "RNH3Tc6WsTxqmqaV",
+    "elo_loss": -5
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 12,
+    "loser": "ZvUuPWyYT0NdpvQ3",
+    "elo_loss": -12
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 3,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -3
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 4,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -4
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 16,
+    "loser": "Ow61V3RmP40Nsp1D",
+    "elo_loss": -16
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 14,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -14
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 14,
+    "loser": "DObxYD5k3q3dpp3i",
+    "elo_loss": -14
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 20,
+    "loser": "lG3Cz4dbRO5AhG1C",
+    "elo_loss": -20
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 12,
+    "loser": "EBhIO7kkdtGTF2Nh",
+    "elo_loss": -12
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 12,
+    "loser": "puU9eo3hEkGTnB0n",
+    "elo_loss": -12
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 12,
+    "loser": "diZlsknMy9TzKlzA",
+    "elo_loss": -12
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 12,
+    "loser": "e2vhEJIZx6IvACQK",
+    "elo_loss": -12
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 12,
+    "loser": "3wLxmlufRMt9PxRn",
+    "elo_loss": -12
+  },
+  {
+    "winner": "mQeBpd9r67DXkN4L",
+    "elo_gain": 23,
+    "loser": "PUm7AOdRuc1b5OfK",
+    "elo_loss": -23
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 12,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -12
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 16,
+    "loser": "Mb0wmA9kimCCjBLp",
+    "elo_loss": -16
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 24,
+    "loser": "EVz4L7f9IORgTaEh",
+    "elo_loss": -24
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 25,
+    "loser": "rTjiGmY2i5qy3tnE",
+    "elo_loss": -25
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 24,
+    "loser": "jJOpN3bYQcHhDzS3",
+    "elo_loss": -24
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 22,
+    "loser": "rTjiGmY2i5qy3tnE",
+    "elo_loss": -22
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 15,
+    "loser": "s2HmnRRXUm1k0R7P",
+    "elo_loss": -15
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 18,
+    "loser": "EVz4L7f9IORgTaEh",
+    "elo_loss": -18
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 12,
+    "loser": "euTJVauLKxjZVdRb",
+    "elo_loss": -12
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 16,
+    "loser": "eJVVXwFIlInJYfmH",
+    "elo_loss": -16
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 11,
+    "loser": "GYhsA3VUpUK99zBN",
+    "elo_loss": -11
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 17,
+    "loser": "lG3Cz4dbRO5AhG1C",
+    "elo_loss": -17
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 12,
+    "loser": "ieYAERZovDX5tZIP",
+    "elo_loss": -12
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 10,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -10
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 9,
+    "loser": "HgUVmZs26tTiaR9b",
+    "elo_loss": -9
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 10,
+    "loser": "EYwamNK390Y4Akrb",
+    "elo_loss": -10
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 14,
+    "loser": "DDUifpzehAWEKNv5",
+    "elo_loss": -14
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 16,
+    "loser": "APTtM4hmTdT5951C",
+    "elo_loss": -16
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 21,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -21
+  },
+  {
+    "winner": "31QikiI7GYoAhu9n",
+    "elo_gain": 12,
+    "loser": "UOLjuJtH2gcH1wqY",
+    "elo_loss": -12
+  },
+  {
+    "winner": "31QikiI7GYoAhu9n",
+    "elo_gain": 16,
+    "loser": "EpR7buLSOAdl3UhQ",
+    "elo_loss": -16
+  },
+  {
+    "winner": "31QikiI7GYoAhu9n",
+    "elo_gain": 13,
+    "loser": "4y3DA6b9VQslQHbw",
+    "elo_loss": -13
+  },
+  {
+    "winner": "PeJwIIKkpWseL6Sq",
+    "elo_gain": 17,
+    "loser": "31QikiI7GYoAhu9n",
+    "elo_loss": -17
+  },
+  {
+    "winner": "PeJwIIKkpWseL6Sq",
+    "elo_gain": 23,
+    "loser": "ZvUuPWyYT0NdpvQ3",
+    "elo_loss": -23
+  },
+  {
+    "winner": "PeJwIIKkpWseL6Sq",
+    "elo_gain": 15,
+    "loser": "qgJS4lNPuYvTnQAi",
+    "elo_loss": -15
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 6,
+    "loser": "PeJwIIKkpWseL6Sq",
+    "elo_loss": -6
+  },
+  {
+    "winner": "8gnvRvjq2GkObL5L",
+    "elo_gain": 15,
+    "loser": "005gabmHgMbjUT39",
+    "elo_loss": -15
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 20,
+    "loser": "8gnvRvjq2GkObL5L",
+    "elo_loss": -20
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 15,
+    "loser": "JPSofvCmXQl0tn9K",
+    "elo_loss": -15
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 16,
+    "loser": "Mb0wmA9kimCCjBLp",
+    "elo_loss": -16
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 17,
+    "loser": "Art0uhZaxrhgcEml",
+    "elo_loss": -17
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 11,
+    "loser": "EpR7buLSOAdl3UhQ",
+    "elo_loss": -11
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 16,
+    "loser": "rTjiGmY2i5qy3tnE",
+    "elo_loss": -16
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 14,
+    "loser": "OIRghMchVqXcttCf",
+    "elo_loss": -14
+  },
+  {
+    "winner": "1UKazLaWaLJ6j2Ag",
+    "elo_gain": 12,
+    "loser": "u7AL8DQ1aq8Gh2A8",
+    "elo_loss": -12
+  },
+  {
+    "winner": "N6oe9MCNT6r84iuw",
+    "elo_gain": 15,
+    "loser": "RxJ5n2K41Ai05xU2",
+    "elo_loss": -15
+  },
+  {
+    "winner": "N6oe9MCNT6r84iuw",
+    "elo_gain": 20,
+    "loser": "APTtM4hmTdT5951C",
+    "elo_loss": -20
+  },
+  {
+    "winner": "N6oe9MCNT6r84iuw",
+    "elo_gain": 12,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -12
+  },
+  {
+    "winner": "N6oe9MCNT6r84iuw",
+    "elo_gain": 13,
+    "loser": "J0oNiG4pcpGLRUH6",
+    "elo_loss": -13
+  },
+  {
+    "winner": "N6oe9MCNT6r84iuw",
+    "elo_gain": 14,
+    "loser": "KTZO16NyeQUNtTzp",
+    "elo_loss": -14
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 17,
+    "loser": "N6oe9MCNT6r84iuw",
+    "elo_loss": -17
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 11,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -11
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 18,
+    "loser": "ZvUuPWyYT0NdpvQ3",
+    "elo_loss": -18
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 9,
+    "loser": "dRZI8ElRCa8ZXlqE",
+    "elo_loss": -9
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 9,
+    "loser": "sHqYHVVLgwTeyAR5",
+    "elo_loss": -9
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 21,
+    "loser": "0jXEt37DpQWrBvSy",
+    "elo_loss": -21
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 9,
+    "loser": "e2vhEJIZx6IvACQK",
+    "elo_loss": -9
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 19,
+    "loser": "EVz4L7f9IORgTaEh",
+    "elo_loss": -19
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 10,
+    "loser": "PUm7AOdRuc1b5OfK",
+    "elo_loss": -10
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 6,
+    "loser": "0cvYLo6crwD0x249",
+    "elo_loss": -6
+  },
+  {
+    "winner": "puU9eo3hEkGTnB0n",
+    "elo_gain": 17,
+    "loser": "dji4UHUiOGUeiyEw",
+    "elo_loss": -17
+  },
+  {
+    "winner": "puU9eo3hEkGTnB0n",
+    "elo_gain": 16,
+    "loser": "e2vhEJIZx6IvACQK",
+    "elo_loss": -16
+  },
+  {
+    "winner": "puU9eo3hEkGTnB0n",
+    "elo_gain": 14,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -14
+  },
+  {
+    "winner": "puU9eo3hEkGTnB0n",
+    "elo_gain": 16,
+    "loser": "si7jPpizSqHnAZ6f",
+    "elo_loss": -16
+  },
+  {
+    "winner": "RNH3Tc6WsTxqmqaV",
+    "elo_gain": 13,
+    "loser": "euTJVauLKxjZVdRb",
+    "elo_loss": -13
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 18,
+    "loser": "DKbMvL1d43UdrLry",
+    "elo_loss": -18
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 14,
+    "loser": "dRZI8ElRCa8ZXlqE",
+    "elo_loss": -14
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 18,
+    "loser": "G4s58Ecl3IC8HvSV",
+    "elo_loss": -18
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 14,
+    "loser": "YBSLlzjp2mp8b9aN",
+    "elo_loss": -14
+  },
+  {
+    "winner": "I0pGSCtrZK0DbF5a",
+    "elo_gain": 17,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -17
+  },
+  {
+    "winner": "fyMQ4CTRfS7odnxa",
+    "elo_gain": 9,
+    "loser": "I0pGSCtrZK0DbF5a",
+    "elo_loss": -9
+  },
+  {
+    "winner": "fyMQ4CTRfS7odnxa",
+    "elo_gain": 10,
+    "loser": "tzWrCRPa3TxPucUj",
+    "elo_loss": -10
+  },
+  {
+    "winner": "Wt0QKAtkNtuT9JJ9",
+    "elo_gain": 24,
+    "loser": "fyMQ4CTRfS7odnxa",
+    "elo_loss": -24
+  },
+  {
+    "winner": "Wt0QKAtkNtuT9JJ9",
+    "elo_gain": 16,
+    "loser": "i0ebD4C81lUYA9GD",
+    "elo_loss": -16
+  },
+  {
+    "winner": "Wt0QKAtkNtuT9JJ9",
+    "elo_gain": 14,
+    "loser": "31QikiI7GYoAhu9n",
+    "elo_loss": -14
+  },
+  {
+    "winner": "mwQJpkKN2nQHtWEG",
+    "elo_gain": 22,
+    "loser": "Wt0QKAtkNtuT9JJ9",
+    "elo_loss": -22
+  },
+  {
+    "winner": "mwQJpkKN2nQHtWEG",
+    "elo_gain": 17,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -17
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 13,
+    "loser": "mwQJpkKN2nQHtWEG",
+    "elo_loss": -13
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 11,
+    "loser": "CGEUBuobQQbG8Dag",
+    "elo_loss": -11
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 18,
+    "loser": "zmmL1f7zqPRNDKTt",
+    "elo_loss": -18
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 10,
+    "loser": "mwQJpkKN2nQHtWEG",
+    "elo_loss": -10
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 12,
+    "loser": "I0pGSCtrZK0DbF5a",
+    "elo_loss": -12
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 10,
+    "loser": "e2vhEJIZx6IvACQK",
+    "elo_loss": -10
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 14,
+    "loser": "tzWrCRPa3TxPucUj",
+    "elo_loss": -14
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 8,
+    "loser": "EpR7buLSOAdl3UhQ",
+    "elo_loss": -8
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 9,
+    "loser": "xcY4Y0Qbo7I4Qibi",
+    "elo_loss": -9
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 11,
+    "loser": "N6oe9MCNT6r84iuw",
+    "elo_loss": -11
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 7,
+    "loser": "O1rBp7yEzBz23ATA",
+    "elo_loss": -7
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 7,
+    "loser": "Ow61V3RmP40Nsp1D",
+    "elo_loss": -7
+  },
+  {
+    "winner": "EVz4L7f9IORgTaEh",
+    "elo_gain": 11,
+    "loser": "PUm7AOdRuc1b5OfK",
+    "elo_loss": -11
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 6,
+    "loser": "diZlsknMy9TzKlzA",
+    "elo_loss": -6
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 8,
+    "loser": "Mb0wmA9kimCCjBLp",
+    "elo_loss": -8
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 13,
+    "loser": "fyMQ4CTRfS7odnxa",
+    "elo_loss": -13
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 14,
+    "loser": "0jXEt37DpQWrBvSy",
+    "elo_loss": -14
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 7,
+    "loser": "PeJwIIKkpWseL6Sq",
+    "elo_loss": -7
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 8,
+    "loser": "zmmL1f7zqPRNDKTt",
+    "elo_loss": -8
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 4,
+    "loser": "HgUVmZs26tTiaR9b",
+    "elo_loss": -4
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 6,
+    "loser": "iL1jGL7cPJipQkpR",
+    "elo_loss": -6
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 5,
+    "loser": "xcY4Y0Qbo7I4Qibi",
+    "elo_loss": -5
+  },
+  {
+    "winner": "ieYAERZovDX5tZIP",
+    "elo_gain": 18,
+    "loser": "eJVVXwFIlInJYfmH",
+    "elo_loss": -18
+  },
+  {
+    "winner": "ieYAERZovDX5tZIP",
+    "elo_gain": 15,
+    "loser": "0cvYLo6crwD0x249",
+    "elo_loss": -15
+  },
+  {
+    "winner": "ieYAERZovDX5tZIP",
+    "elo_gain": 18,
+    "loser": "DDUifpzehAWEKNv5",
+    "elo_loss": -18
+  },
+  {
+    "winner": "ieYAERZovDX5tZIP",
+    "elo_gain": 18,
+    "loser": "lG3Cz4dbRO5AhG1C",
+    "elo_loss": -18
+  },
+  {
+    "winner": "diZlsknMy9TzKlzA",
+    "elo_gain": 16,
+    "loser": "EpR7buLSOAdl3UhQ",
+    "elo_loss": -16
+  },
+  {
+    "winner": "diZlsknMy9TzKlzA",
+    "elo_gain": 18,
+    "loser": "eYnVIXWc7HRz89DT",
+    "elo_loss": -18
+  },
+  {
+    "winner": "diZlsknMy9TzKlzA",
+    "elo_gain": 14,
+    "loser": "ZXvWtaXZQRSDSj40",
+    "elo_loss": -14
+  },
+  {
+    "winner": "diZlsknMy9TzKlzA",
+    "elo_gain": 24,
+    "loser": "KYx93klmVHqGyHjr",
+    "elo_loss": -24
+  },
+  {
+    "winner": "diZlsknMy9TzKlzA",
+    "elo_gain": 14,
+    "loser": "5mkqMLaDV8d1FAeg",
+    "elo_loss": -14
+  },
+  {
+    "winner": "dPPgNzFEONnh814G",
+    "elo_gain": 7,
+    "loser": "diZlsknMy9TzKlzA",
+    "elo_loss": -7
+  },
+  {
+    "winner": "4NO5OrNuq5mmMmeS",
+    "elo_gain": 14,
+    "loser": "SSxYNgBx0IIQQH39",
+    "elo_loss": -14
+  },
+  {
+    "winner": "Wt0QKAtkNtuT9JJ9",
+    "elo_gain": 12,
+    "loser": "4NO5OrNuq5mmMmeS",
+    "elo_loss": -12
+  },
+  {
+    "winner": "dji4UHUiOGUeiyEw",
+    "elo_gain": 15,
+    "loser": "2P99CxbqAsXirau8",
+    "elo_loss": -15
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 10,
+    "loser": "31QikiI7GYoAhu9n",
+    "elo_loss": -10
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 9,
+    "loser": "sHqYHVVLgwTeyAR5",
+    "elo_loss": -9
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 10,
+    "loser": "KTZO16NyeQUNtTzp",
+    "elo_loss": -10
+  },
+  {
+    "winner": "u7AL8DQ1aq8Gh2A8",
+    "elo_gain": 8,
+    "loser": "BdQJcRpVrnrupHSM",
+    "elo_loss": -8
+  },
+  {
+    "winner": "zDSkNCJWjuAciex7",
+    "elo_gain": 9,
+    "loser": "u7AL8DQ1aq8Gh2A8",
+    "elo_loss": -9
+  },
+  {
+    "winner": "31QikiI7GYoAhu9n",
+    "elo_gain": 14,
+    "loser": "mQeBpd9r67DXkN4L",
+    "elo_loss": -14
+  },
+  {
+    "winner": "31QikiI7GYoAhu9n",
+    "elo_gain": 21,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -21
+  },
+  {
+    "winner": "31QikiI7GYoAhu9n",
+    "elo_gain": 18,
+    "loser": "Wt0QKAtkNtuT9JJ9",
+    "elo_loss": -18
+  },
+  {
+    "winner": "31QikiI7GYoAhu9n",
+    "elo_gain": 16,
+    "loser": "i0ebD4C81lUYA9GD",
+    "elo_loss": -16
+  },
+  {
+    "winner": "31QikiI7GYoAhu9n",
+    "elo_gain": 13,
+    "loser": "M0sgZB7QcRxo4tKs",
+    "elo_loss": -13
+  },
+  {
+    "winner": "si7jPpizSqHnAZ6f",
+    "elo_gain": 19,
+    "loser": "31QikiI7GYoAhu9n",
+    "elo_loss": -19
+  },
+  {
+    "winner": "si7jPpizSqHnAZ6f",
+    "elo_gain": 15,
+    "loser": "RNH3Tc6WsTxqmqaV",
+    "elo_loss": -15
+  },
+  {
+    "winner": "si7jPpizSqHnAZ6f",
+    "elo_gain": 10,
+    "loser": "SSxYNgBx0IIQQH39",
+    "elo_loss": -10
+  },
+  {
+    "winner": "si7jPpizSqHnAZ6f",
+    "elo_gain": 11,
+    "loser": "jmLb3zzW8h8AFcP2",
+    "elo_loss": -11
+  },
+  {
+    "winner": "wqBvlF9VzCZfW9Pv",
+    "elo_gain": 5,
+    "loser": "si7jPpizSqHnAZ6f",
+    "elo_loss": -5
+  },
+  {
+    "winner": "Mb0wmA9kimCCjBLp",
+    "elo_gain": 13,
+    "loser": "e2vhEJIZx6IvACQK",
+    "elo_loss": -13
+  },
+  {
+    "winner": "UH9ewH28LUPNBhNT",
+    "elo_gain": 8,
+    "loser": "2P99CxbqAsXirau8",
+    "elo_loss": -8
+  },
+  {
+    "winner": "J0oNiG4pcpGLRUH6",
+    "elo_gain": 23,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -23
+  },
+  {
+    "winner": "8gnvRvjq2GkObL5L",
+    "elo_gain": 18,
+    "loser": "UH9ewH28LUPNBhNT",
+    "elo_loss": -18
+  },
+  {
+    "winner": "005gabmHgMbjUT39",
+    "elo_gain": 16,
+    "loser": "N6oe9MCNT6r84iuw",
+    "elo_loss": -16
+  },
+  {
+    "winner": "005gabmHgMbjUT39",
+    "elo_gain": 13,
+    "loser": "DKbMvL1d43UdrLry",
+    "elo_loss": -13
+  },
+  {
+    "winner": "J0oNiG4pcpGLRUH6",
+    "elo_gain": 17,
+    "loser": "geQIQqCS9lqVM2ue",
+    "elo_loss": -17
+  },
+  {
+    "winner": "xcY4Y0Qbo7I4Qibi",
+    "elo_gain": 17,
+    "loser": "J0oNiG4pcpGLRUH6",
+    "elo_loss": -17
+  },
+  {
+    "winner": "xcY4Y0Qbo7I4Qibi",
+    "elo_gain": 12,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -12
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 15,
+    "loser": "xcY4Y0Qbo7I4Qibi",
+    "elo_loss": -15
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 10,
+    "loser": "Hd6JOJMNRNOJtrkv",
+    "elo_loss": -10
+  },
+  {
+    "winner": "lG3Cz4dbRO5AhG1C",
+    "elo_gain": 13,
+    "loser": "qgJS4lNPuYvTnQAi",
+    "elo_loss": -13
+  },
+  {
+    "winner": "tzWrCRPa3TxPucUj",
+    "elo_gain": 16,
+    "loser": "lG3Cz4dbRO5AhG1C",
+    "elo_loss": -16
+  },
+  {
+    "winner": "qCNsVq6HXLO5bF39",
+    "elo_gain": 24,
+    "loser": "tzWrCRPa3TxPucUj",
+    "elo_loss": -24
+  },
+  {
+    "winner": "qCNsVq6HXLO5bF39",
+    "elo_gain": 15,
+    "loser": "2P99CxbqAsXirau8",
+    "elo_loss": -15
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 11,
+    "loser": "qCNsVq6HXLO5bF39",
+    "elo_loss": -11
+  },
+  {
+    "winner": "PUm7AOdRuc1b5OfK",
+    "elo_gain": 10,
+    "loser": "EYwamNK390Y4Akrb",
+    "elo_loss": -10
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 16,
+    "loser": "PUm7AOdRuc1b5OfK",
+    "elo_loss": -16
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 14,
+    "loser": "I89zfP9jLf4gQsch",
+    "elo_loss": -14
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 7,
+    "loser": "GYhsA3VUpUK99zBN",
+    "elo_loss": -7
+  },
+  {
+    "winner": "jJOpN3bYQcHhDzS3",
+    "elo_gain": 10,
+    "loser": "eJVVXwFIlInJYfmH",
+    "elo_loss": -10
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 19,
+    "loser": "jJOpN3bYQcHhDzS3",
+    "elo_loss": -19
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 14,
+    "loser": "HY8lxad4GO7cw4Hg",
+    "elo_loss": -14
+  },
+  {
+    "winner": "rTjiGmY2i5qy3tnE",
+    "elo_gain": 15,
+    "loser": "APTtM4hmTdT5951C",
+    "elo_loss": -15
+  },
+  {
+    "winner": "mwQJpkKN2nQHtWEG",
+    "elo_gain": 24,
+    "loser": "rTjiGmY2i5qy3tnE",
+    "elo_loss": -24
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 19,
+    "loser": "u7AL8DQ1aq8Gh2A8",
+    "elo_loss": -19
+  },
+  {
+    "winner": "Art0uhZaxrhgcEml",
+    "elo_gain": 12,
+    "loser": "iL1jGL7cPJipQkpR",
+    "elo_loss": -12
+  },
+  {
+    "winner": "I89zfP9jLf4gQsch",
+    "elo_gain": 9,
+    "loser": "2P99CxbqAsXirau8",
+    "elo_loss": -9
+  },
+  {
+    "winner": "qgJS4lNPuYvTnQAi",
+    "elo_gain": 15,
+    "loser": "DKbMvL1d43UdrLry",
+    "elo_loss": -15
+  },
+  {
+    "winner": "31QikiI7GYoAhu9n",
+    "elo_gain": 15,
+    "loser": "qgJS4lNPuYvTnQAi",
+    "elo_loss": -15
+  },
+  {
+    "winner": "HgUVmZs26tTiaR9b",
+    "elo_gain": 21,
+    "loser": "31QikiI7GYoAhu9n",
+    "elo_loss": -21
+  },
+  {
+    "winner": "RxJ5n2K41Ai05xU2",
+    "elo_gain": 19,
+    "loser": "HY8lxad4GO7cw4Hg",
+    "elo_loss": -19
+  },
+  {
+    "winner": "s2HmnRRXUm1k0R7P",
+    "elo_gain": 18,
+    "loser": "RxJ5n2K41Ai05xU2",
+    "elo_loss": -18
+  },
+  {
+    "winner": "diZlsknMy9TzKlzA",
+    "elo_gain": 12,
+    "loser": "EBhIO7kkdtGTF2Nh",
+    "elo_loss": -12
+  },
+  {
+    "winner": "geQIQqCS9lqVM2ue",
+    "elo_gain": 16,
+    "loser": "4NO5OrNuq5mmMmeS",
+    "elo_loss": -16
+  },
+  {
+    "winner": "64xNGsbL1tIyrfe2",
+    "elo_gain": 24,
+    "loser": "u7AL8DQ1aq8Gh2A8",
+    "elo_loss": -24
+  },
+  {
+    "winner": "qgJS4lNPuYvTnQAi",
+    "elo_gain": 28,
+    "loser": "wqBvlF9VzCZfW9Pv",
+    "elo_loss": -28
+  },
+  {
+    "winner": "qgJS4lNPuYvTnQAi",
+    "elo_gain": 19,
+    "loser": "u7AL8DQ1aq8Gh2A8",
+    "elo_loss": -19
+  },
+  {
+    "winner": "31cvl57OCSiA3z6D",
+    "elo_gain": 15,
+    "loser": "qgJS4lNPuYvTnQAi",
+    "elo_loss": -15
+  },
+  {
+    "winner": "31cvl57OCSiA3z6D",
+    "elo_gain": 22,
+    "loser": "0jXEt37DpQWrBvSy",
+    "elo_loss": -22
+  },
+  {
+    "winner": "diZlsknMy9TzKlzA",
+    "elo_gain": 18,
+    "loser": "31cvl57OCSiA3z6D",
+    "elo_loss": -18
+  },
+  {
+    "winner": "diZlsknMy9TzKlzA",
+    "elo_gain": 14,
+    "loser": "qgJS4lNPuYvTnQAi",
+    "elo_loss": -14
+  },
+  {
+    "winner": "diZlsknMy9TzKlzA",
+    "elo_gain": 14,
+    "loser": "Mb0wmA9kimCCjBLp",
+    "elo_loss": -14
+  },
+  {
+    "winner": "diZlsknMy9TzKlzA",
+    "elo_gain": 25,
+    "loser": "zDSkNCJWjuAciex7",
+    "elo_loss": -25
+  },
+  {
+    "winner": "iL1jGL7cPJipQkpR",
+    "elo_gain": 21,
+    "loser": "diZlsknMy9TzKlzA",
+    "elo_loss": -21
+  },
+  {
+    "winner": "0cvYLo6crwD0x249",
+    "elo_gain": 19,
+    "loser": "iL1jGL7cPJipQkpR",
+    "elo_loss": -19
+  },
+  {
+    "winner": "0cvYLo6crwD0x249",
+    "elo_gain": 17,
+    "loser": "3wLxmlufRMt9PxRn",
+    "elo_loss": -17
+  },
+  {
+    "winner": "0cvYLo6crwD0x249",
+    "elo_gain": 16,
+    "loser": "FQeedPnz9jA5RRa6",
+    "elo_loss": -16
+  },
+  {
+    "winner": "0cvYLo6crwD0x249",
+    "elo_gain": 16,
+    "loser": "3pkMrGXevF2Kro6I",
+    "elo_loss": -16
+  },
+  {
+    "winner": "0cvYLo6crwD0x249",
+    "elo_gain": 15,
+    "loser": "Qn9b9ADKu7r0oBzl",
+    "elo_loss": -15
+  },
+  {
+    "winner": "0cvYLo6crwD0x249",
+    "elo_gain": 12,
+    "loser": "DObxYD5k3q3dpp3i",
+    "elo_loss": -12
+  },
+  {
+    "winner": "VcNNnp2l9kEmiucI",
+    "elo_gain": 21,
+    "loser": "0cvYLo6crwD0x249",
+    "elo_loss": -21
+  },
+  {
+    "winner": "8pOvfI0dgghYW6HY",
+    "elo_gain": 4,
+    "loser": "VcNNnp2l9kEmiucI",
+    "elo_loss": -4
+  },
+  {
+    "winner": "SZzcMaKp2S0CFfP5",
+    "elo_gain": 14,
+    "loser": "5RXdhFqA8xM7qJvS",
+    "elo_loss": -14
+  },
+  {
+    "winner": "SZzcMaKp2S0CFfP5",
+    "elo_gain": 19,
+    "loser": "QtdY7gpe1vW9Fii8",
+    "elo_loss": -19
+  }
+]
